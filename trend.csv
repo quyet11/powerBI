@@ -1,0 +1,1001 @@
+"Product ID	",Name,Category,Sales Volume
+P0001,Apple Watch Series 7,Smartwatch,532
+P0002,Huawei P50,Smartphone,308
+P0003,Xiaomi Poco X3,Laptop,144
+P0004,Lenovo Yoga C940,Tablet,406
+P0005,OnePlus Nord 2,Smartwatch,463
+P0006,LG Wing,Smartphone,125
+P0007,ASUS VivoBook S15,Laptop,301
+P0008,Garmin Fenix 7,Tablet,253
+P0009,Razer Blade 15,Smartwatch,285
+P0010,Xiaomi Redmi Note 10,Smartphone,565
+P0011,ASUS ROG Phone 5,Laptop,166
+P0012,Dell XPS 13,Tablet,315
+P0013,Samsung Galaxy Z Fold 3,Smartwatch,595
+P0014,HP Pavilion Gaming,Smartphone,156
+P0015,Fossil Gen 6,Laptop,502
+P0016,Lenovo K13,Tablet,503
+P0017,Nokia X20,Smartwatch,382
+P0018,LG Gram,Smartphone,308
+P0019,Google Pixel 4a 5G,Laptop,155
+P0020,Realme GT,Tablet,499
+P0021,Amazfit GTR 3,Smartwatch,174
+P0022,Huawei MateBook D,Smartphone,529
+P0023,HTC Desire 21,Laptop,424
+P0024,MSI GS66 Stealth,Tablet,318
+P0025,Vivo X70,Smartwatch,103
+P0026,Oppo A74,Smartphone,197
+P0027,Google Pixelbook,Laptop,276
+P0028,Honor Magic 3,Tablet,571
+P0029,Samsung Galaxy A52,Smartwatch,404
+P0030,Acer Chromebook Spin,Smartphone,595
+P0031,Lenovo Legion Phone Duel,Laptop,451
+P0032,Microsoft Surface Book,Tablet,415
+P0033,iPhone 13,Smartwatch,111
+P0034,Blackberry Key3,Smartphone,293
+P0035,ASUS ZenBook Pro Duo,Laptop,101
+P0036,Sony Xperia 10 III,Tablet,212
+P0037,Samsung Galaxy Watch 4,Smartwatch,296
+P0038,Acer Swift 5,Smartphone,454
+P0039,Xiaomi Mi 11,Laptop,530
+P0040,Huawei Watch GT 3,Tablet,237
+P0041,LG Q92,Smartwatch,293
+P0042,Dell Inspiron 15,Smartphone,207
+P0043,Blackberry Evolve,Laptop,257
+P0044,Oppo Reno6,Tablet,403
+P0045,Honor 50,Smartwatch,370
+P0046,iPhone SE (2022),Smartphone,203
+P0047,Realme C25,Laptop,555
+P0048,MSI Creator Z16,Tablet,232
+P0049,Samsung Galaxy M42,Smartwatch,588
+P0050,Lenovo ThinkPad X1 Carbon,Smartphone,504
+P0051,ASUS Zenfone 8 Flip,Laptop,185
+P0052,Fitbit Sense,Tablet,150
+P0053,OnePlus 9R,Smartwatch,492
+P0054,Microsoft Surface Laptop,Smartphone,399
+P0055,LG UltraGear,Laptop,162
+P0056,Nokia 5.4,Tablet,598
+P0057,Motorola Edge+,Smartwatch,144
+P0058,Xiaomi Mi Notebook,Smartphone,453
+P0059,Huawei Nova 8,Laptop,382
+P0060,Samsung Galaxy Book,Tablet,289
+P0061,TicWatch Pro 4,Smartwatch,373
+P0062,ASUS ROG Zephyrus G14,Smartphone,267
+P0063,Apple MacBook Air,Laptop,572
+P0064,Google Pixel 6 Pro,Tablet,350
+P0065,Lenovo Tab P11,Smartwatch,266
+P0066,Vivo V21,Smartphone,466
+P0067,Oppo Find X5,Laptop,145
+P0068,Samsung Galaxy A32,Tablet,301
+P0069,Dell Alienware 17,Smartwatch,509
+P0070,Honor 30S,Smartphone,549
+P0071,ASUS VivoBook Flip,Laptop,559
+P0072,Xiaomi Mi Watch,Tablet,232
+P0073,Sony Xperia 5 III,Smartwatch,207
+P0074,Lenovo Legion Y740,Smartphone,597
+P0075,Google Pixel Slate,Laptop,193
+P0076,ASUS Zenfone 8,Tablet,277
+P0077,HP Envy x360,Smartwatch,390
+P0078,Alienware m15,Smartphone,165
+P0079,ASUS TUF Gaming A15,Laptop,335
+P0080,LG Velvet,Tablet,248
+P0081,HP Spectre x360,Smartwatch,116
+P0082,Acer Predator Helios,Smartphone,209
+P0083,Apple Watch Series 7 (lặp lại?),Laptop,573
+P0084,ZTE Axon 30,Tablet,299
+P0085,Dell Latitude,Smartwatch,522
+P0086,Samsung Galaxy Chromebook,Smartphone,255
+P0087,Huawei MateBook X Pro,Laptop,489
+P0088,Lenovo Yoga Slim 7,Tablet,469
+P0089,Realme Narzo 50,Smartwatch,182
+P0090,MSI Aero 15,Smartphone,176
+P0091,Oppo Watch RX,Laptop,560
+P0092,iPhone 13 Pro,Tablet,218
+P0093,Blackberry Key2,Smartwatch,147
+P0094,ASUS ROG Zephyrus Duo,Smartphone,539
+P0095,Xiaomi RedmiBook,Laptop,294
+P0096,Huawei Mate 40,Tablet,415
+P0097,HP Omen 15,Smartwatch,392
+P0098,Acer Aspire,Smartphone,561
+P0099,Motorola Moto E7,Laptop,383
+P0100,Samsung Notebook 9,Tablet,574
+P0101,Apple Watch Series 7,Smartwatch,430
+P0102,Huawei P50,Smartphone,364
+P0103,Xiaomi Poco X3,Laptop,300
+P0104,Lenovo Yoga C940,Tablet,441
+P0105,OnePlus Nord 2,Smartwatch,103
+P0106,LG Wing,Smartphone,489
+P0107,ASUS VivoBook S15,Laptop,580
+P0108,Garmin Fenix 7,Tablet,600
+P0109,Razer Blade 15,Smartwatch,164
+P0110,Xiaomi Redmi Note 10,Smartphone,241
+P0111,ASUS ROG Phone 5,Laptop,342
+P0112,Dell XPS 13,Tablet,584
+P0113,Samsung Galaxy Z Fold 3,Smartwatch,599
+P0114,HP Pavilion Gaming,Smartphone,531
+P0115,Fossil Gen 6,Laptop,354
+P0116,Lenovo K13,Tablet,142
+P0117,Nokia X20,Smartwatch,192
+P0118,LG Gram,Smartphone,454
+P0119,Google Pixel 4a 5G,Laptop,531
+P0120,Realme GT,Tablet,202
+P0121,Amazfit GTR 3,Smartwatch,271
+P0122,Huawei MateBook D,Smartphone,297
+P0123,HTC Desire 21,Laptop,310
+P0124,MSI GS66 Stealth,Tablet,348
+P0125,Vivo X70,Smartwatch,135
+P0126,Oppo A74,Smartphone,444
+P0127,Google Pixelbook,Laptop,538
+P0128,Honor Magic 3,Tablet,128
+P0129,Samsung Galaxy A52,Smartwatch,382
+P0130,Acer Chromebook Spin,Smartphone,217
+P0131,Lenovo Legion Phone Duel,Laptop,478
+P0132,Microsoft Surface Book,Tablet,367
+P0133,iPhone 13,Smartwatch,253
+P0134,Blackberry Key3,Smartphone,147
+P0135,ASUS ZenBook Pro Duo,Laptop,369
+P0136,Sony Xperia 10 III,Tablet,396
+P0137,Samsung Galaxy Watch 4,Smartwatch,555
+P0138,Acer Swift 5,Smartphone,580
+P0139,Xiaomi Mi 11,Laptop,501
+P0140,Huawei Watch GT 3,Tablet,587
+P0141,LG Q92,Smartwatch,514
+P0142,Dell Inspiron 15,Smartphone,375
+P0143,Blackberry Evolve,Laptop,303
+P0144,Oppo Reno6,Tablet,554
+P0145,Honor 50,Smartwatch,240
+P0146,iPhone SE (2022),Smartphone,151
+P0147,Realme C25,Laptop,513
+P0148,MSI Creator Z16,Tablet,500
+P0149,Samsung Galaxy M42,Smartwatch,548
+P0150,Lenovo ThinkPad X1 Carbon,Smartphone,543
+P0151,ASUS Zenfone 8 Flip,Laptop,435
+P0152,Fitbit Sense,Tablet,154
+P0153,OnePlus 9R,Smartwatch,256
+P0154,Microsoft Surface Laptop,Smartphone,350
+P0155,LG UltraGear,Laptop,120
+P0156,Nokia 5.4,Tablet,564
+P0157,Motorola Edge+,Smartwatch,368
+P0158,Xiaomi Mi Notebook,Smartphone,449
+P0159,Huawei Nova 8,Laptop,271
+P0160,Samsung Galaxy Book,Tablet,547
+P0161,TicWatch Pro 4,Smartwatch,578
+P0162,ASUS ROG Zephyrus G14,Smartphone,373
+P0163,Apple MacBook Air,Laptop,514
+P0164,Google Pixel 6 Pro,Tablet,574
+P0165,Lenovo Tab P11,Smartwatch,428
+P0166,Vivo V21,Smartphone,447
+P0167,Oppo Find X5,Laptop,115
+P0168,Samsung Galaxy A32,Tablet,382
+P0169,Dell Alienware 17,Smartwatch,516
+P0170,Honor 30S,Smartphone,151
+P0171,ASUS VivoBook Flip,Laptop,268
+P0172,Xiaomi Mi Watch,Tablet,385
+P0173,Sony Xperia 5 III,Smartwatch,367
+P0174,Lenovo Legion Y740,Smartphone,103
+P0175,Google Pixel Slate,Laptop,107
+P0176,ASUS Zenfone 8,Tablet,510
+P0177,HP Envy x360,Smartwatch,267
+P0178,Alienware m15,Smartphone,354
+P0179,ASUS TUF Gaming A15,Laptop,107
+P0180,LG Velvet,Tablet,195
+P0181,HP Spectre x360,Smartwatch,253
+P0182,Acer Predator Helios,Smartphone,225
+P0183,Apple Watch Series 7 (lặp lại?),Laptop,352
+P0184,ZTE Axon 30,Tablet,306
+P0185,Dell Latitude,Smartwatch,398
+P0186,Samsung Galaxy Chromebook,Smartphone,380
+P0187,Huawei MateBook X Pro,Laptop,246
+P0188,Lenovo Yoga Slim 7,Tablet,161
+P0189,Realme Narzo 50,Smartwatch,409
+P0190,MSI Aero 15,Smartphone,543
+P0191,Oppo Watch RX,Laptop,465
+P0192,iPhone 13 Pro,Tablet,453
+P0193,Blackberry Key2,Smartwatch,412
+P0194,ASUS ROG Zephyrus Duo,Smartphone,339
+P0195,Xiaomi RedmiBook,Laptop,501
+P0196,Huawei Mate 40,Tablet,276
+P0197,HP Omen 15,Smartwatch,468
+P0198,Acer Aspire,Smartphone,428
+P0199,Motorola Moto E7,Laptop,195
+P0200,Samsung Notebook 9,Tablet,471
+P0201,Apple Watch Series 7,Smartwatch,588
+P0202,Huawei P50,Smartphone,231
+P0203,Xiaomi Poco X3,Laptop,589
+P0204,Lenovo Yoga C940,Tablet,298
+P0205,OnePlus Nord 2,Smartwatch,204
+P0206,LG Wing,Smartphone,507
+P0207,ASUS VivoBook S15,Laptop,412
+P0208,Garmin Fenix 7,Tablet,577
+P0209,Razer Blade 15,Smartwatch,109
+P0210,Xiaomi Redmi Note 10,Smartphone,145
+P0211,ASUS ROG Phone 5,Laptop,317
+P0212,Dell XPS 13,Tablet,193
+P0213,Samsung Galaxy Z Fold 3,Smartwatch,180
+P0214,HP Pavilion Gaming,Smartphone,161
+P0215,Fossil Gen 6,Laptop,181
+P0216,Lenovo K13,Tablet,108
+P0217,Nokia X20,Smartwatch,312
+P0218,LG Gram,Smartphone,151
+P0219,Google Pixel 4a 5G,Laptop,500
+P0220,Realme GT,Tablet,529
+P0221,Amazfit GTR 3,Smartwatch,370
+P0222,Huawei MateBook D,Smartphone,537
+P0223,HTC Desire 21,Laptop,114
+P0224,MSI GS66 Stealth,Tablet,307
+P0225,Vivo X70,Smartwatch,498
+P0226,Oppo A74,Smartphone,252
+P0227,Google Pixelbook,Laptop,434
+P0228,Honor Magic 3,Tablet,362
+P0229,Samsung Galaxy A52,Smartwatch,580
+P0230,Acer Chromebook Spin,Smartphone,191
+P0231,Lenovo Legion Phone Duel,Laptop,587
+P0232,Microsoft Surface Book,Tablet,489
+P0233,iPhone 13,Smartwatch,122
+P0234,Blackberry Key3,Smartphone,157
+P0235,ASUS ZenBook Pro Duo,Laptop,444
+P0236,Sony Xperia 10 III,Tablet,103
+P0237,Samsung Galaxy Watch 4,Smartwatch,133
+P0238,Acer Swift 5,Smartphone,320
+P0239,Xiaomi Mi 11,Laptop,427
+P0240,Huawei Watch GT 3,Tablet,133
+P0241,LG Q92,Smartwatch,113
+P0242,Dell Inspiron 15,Smartphone,445
+P0243,Blackberry Evolve,Laptop,298
+P0244,Oppo Reno6,Tablet,395
+P0245,Honor 50,Smartwatch,225
+P0246,iPhone SE (2022),Smartphone,260
+P0247,Realme C25,Laptop,324
+P0248,MSI Creator Z16,Tablet,307
+P0249,Samsung Galaxy M42,Smartwatch,383
+P0250,Lenovo ThinkPad X1 Carbon,Smartphone,483
+P0251,ASUS Zenfone 8 Flip,Laptop,530
+P0252,Fitbit Sense,Tablet,259
+P0253,OnePlus 9R,Smartwatch,312
+P0254,Microsoft Surface Laptop,Smartphone,402
+P0255,LG UltraGear,Laptop,213
+P0256,Nokia 5.4,Tablet,374
+P0257,Motorola Edge+,Smartwatch,165
+P0258,Xiaomi Mi Notebook,Smartphone,264
+P0259,Huawei Nova 8,Laptop,125
+P0260,Samsung Galaxy Book,Tablet,129
+P0261,TicWatch Pro 4,Smartwatch,352
+P0262,ASUS ROG Zephyrus G14,Smartphone,578
+P0263,Apple MacBook Air,Laptop,207
+P0264,Google Pixel 6 Pro,Tablet,479
+P0265,Lenovo Tab P11,Smartwatch,251
+P0266,Vivo V21,Smartphone,250
+P0267,Oppo Find X5,Laptop,329
+P0268,Samsung Galaxy A32,Tablet,218
+P0269,Dell Alienware 17,Smartwatch,406
+P0270,Honor 30S,Smartphone,515
+P0271,ASUS VivoBook Flip,Laptop,123
+P0272,Xiaomi Mi Watch,Tablet,230
+P0273,Sony Xperia 5 III,Smartwatch,589
+P0274,Lenovo Legion Y740,Smartphone,541
+P0275,Google Pixel Slate,Laptop,391
+P0276,ASUS Zenfone 8,Tablet,185
+P0277,HP Envy x360,Smartwatch,476
+P0278,Alienware m15,Smartphone,139
+P0279,ASUS TUF Gaming A15,Laptop,457
+P0280,LG Velvet,Tablet,330
+P0281,HP Spectre x360,Smartwatch,491
+P0282,Acer Predator Helios,Smartphone,596
+P0283,Apple Watch Series 7 (lặp lại?),Laptop,109
+P0284,ZTE Axon 30,Tablet,478
+P0285,Dell Latitude,Smartwatch,166
+P0286,Samsung Galaxy Chromebook,Smartphone,257
+P0287,Huawei MateBook X Pro,Laptop,339
+P0288,Lenovo Yoga Slim 7,Tablet,134
+P0289,Realme Narzo 50,Smartwatch,347
+P0290,MSI Aero 15,Smartphone,226
+P0291,Oppo Watch RX,Laptop,417
+P0292,iPhone 13 Pro,Tablet,329
+P0293,Blackberry Key2,Smartwatch,190
+P0294,ASUS ROG Zephyrus Duo,Smartphone,167
+P0295,Xiaomi RedmiBook,Laptop,379
+P0296,Huawei Mate 40,Tablet,458
+P0297,HP Omen 15,Smartwatch,559
+P0298,Acer Aspire,Smartphone,425
+P0299,Motorola Moto E7,Laptop,499
+P0300,Samsung Notebook 9,Tablet,594
+P0301,Apple Watch Series 7,Smartwatch,325
+P0302,Huawei P50,Smartphone,125
+P0303,Xiaomi Poco X3,Laptop,452
+P0304,Lenovo Yoga C940,Tablet,329
+P0305,OnePlus Nord 2,Smartwatch,403
+P0306,LG Wing,Smartphone,135
+P0307,ASUS VivoBook S15,Laptop,394
+P0308,Garmin Fenix 7,Tablet,511
+P0309,Razer Blade 15,Smartwatch,284
+P0310,Xiaomi Redmi Note 10,Smartphone,205
+P0311,ASUS ROG Phone 5,Laptop,522
+P0312,Dell XPS 13,Tablet,100
+P0313,Samsung Galaxy Z Fold 3,Smartwatch,442
+P0314,HP Pavilion Gaming,Smartphone,250
+P0315,Fossil Gen 6,Laptop,588
+P0316,Lenovo K13,Tablet,280
+P0317,Nokia X20,Smartwatch,273
+P0318,LG Gram,Smartphone,401
+P0319,Google Pixel 4a 5G,Laptop,414
+P0320,Realme GT,Tablet,315
+P0321,Amazfit GTR 3,Smartwatch,515
+P0322,Huawei MateBook D,Smartphone,598
+P0323,HTC Desire 21,Laptop,585
+P0324,MSI GS66 Stealth,Tablet,441
+P0325,Vivo X70,Smartwatch,400
+P0326,Oppo A74,Smartphone,262
+P0327,Google Pixelbook,Laptop,329
+P0328,Honor Magic 3,Tablet,181
+P0329,Samsung Galaxy A52,Smartwatch,100
+P0330,Acer Chromebook Spin,Smartphone,525
+P0331,Lenovo Legion Phone Duel,Laptop,437
+P0332,Microsoft Surface Book,Tablet,590
+P0333,iPhone 13,Smartwatch,509
+P0334,Blackberry Key3,Smartphone,403
+P0335,ASUS ZenBook Pro Duo,Laptop,160
+P0336,Sony Xperia 10 III,Tablet,496
+P0337,Samsung Galaxy Watch 4,Smartwatch,242
+P0338,Acer Swift 5,Smartphone,552
+P0339,Xiaomi Mi 11,Laptop,476
+P0340,Huawei Watch GT 3,Tablet,467
+P0341,LG Q92,Smartwatch,262
+P0342,Dell Inspiron 15,Smartphone,504
+P0343,Blackberry Evolve,Laptop,146
+P0344,Oppo Reno6,Tablet,544
+P0345,Honor 50,Smartwatch,487
+P0346,iPhone SE (2022),Smartphone,373
+P0347,Realme C25,Laptop,471
+P0348,MSI Creator Z16,Tablet,492
+P0349,Samsung Galaxy M42,Smartwatch,517
+P0350,Lenovo ThinkPad X1 Carbon,Smartphone,571
+P0351,ASUS Zenfone 8 Flip,Laptop,271
+P0352,Fitbit Sense,Tablet,306
+P0353,OnePlus 9R,Smartwatch,428
+P0354,Microsoft Surface Laptop,Smartphone,470
+P0355,LG UltraGear,Laptop,224
+P0356,Nokia 5.4,Tablet,376
+P0357,Motorola Edge+,Smartwatch,278
+P0358,Xiaomi Mi Notebook,Smartphone,525
+P0359,Huawei Nova 8,Laptop,266
+P0360,Samsung Galaxy Book,Tablet,121
+P0361,TicWatch Pro 4,Smartwatch,289
+P0362,ASUS ROG Zephyrus G14,Smartphone,101
+P0363,Apple MacBook Air,Laptop,175
+P0364,Google Pixel 6 Pro,Tablet,200
+P0365,Lenovo Tab P11,Smartwatch,105
+P0366,Vivo V21,Smartphone,416
+P0367,Oppo Find X5,Laptop,474
+P0368,Samsung Galaxy A32,Tablet,364
+P0369,Dell Alienware 17,Smartwatch,259
+P0370,Honor 30S,Smartphone,196
+P0371,ASUS VivoBook Flip,Laptop,561
+P0372,Xiaomi Mi Watch,Tablet,407
+P0373,Sony Xperia 5 III,Smartwatch,275
+P0374,Lenovo Legion Y740,Smartphone,554
+P0375,Google Pixel Slate,Laptop,222
+P0376,ASUS Zenfone 8,Tablet,567
+P0377,HP Envy x360,Smartwatch,415
+P0378,Alienware m15,Smartphone,524
+P0379,ASUS TUF Gaming A15,Laptop,127
+P0380,LG Velvet,Tablet,369
+P0381,HP Spectre x360,Smartwatch,430
+P0382,Acer Predator Helios,Smartphone,175
+P0383,Apple Watch Series 7 (lặp lại?),Laptop,292
+P0384,ZTE Axon 30,Tablet,121
+P0385,Dell Latitude,Smartwatch,546
+P0386,Samsung Galaxy Chromebook,Smartphone,439
+P0387,Huawei MateBook X Pro,Laptop,244
+P0388,Lenovo Yoga Slim 7,Tablet,426
+P0389,Realme Narzo 50,Smartwatch,446
+P0390,MSI Aero 15,Smartphone,440
+P0391,Oppo Watch RX,Laptop,447
+P0392,iPhone 13 Pro,Tablet,536
+P0393,Blackberry Key2,Smartwatch,340
+P0394,ASUS ROG Zephyrus Duo,Smartphone,481
+P0395,Xiaomi RedmiBook,Laptop,269
+P0396,Huawei Mate 40,Tablet,591
+P0397,HP Omen 15,Smartwatch,539
+P0398,Acer Aspire,Smartphone,214
+P0399,Motorola Moto E7,Laptop,356
+P0400,Samsung Notebook 9,Tablet,103
+P0401,Apple Watch Series 7,Smartwatch,504
+P0402,Huawei P50,Smartphone,495
+P0403,Xiaomi Poco X3,Laptop,352
+P0404,Lenovo Yoga C940,Tablet,168
+P0405,OnePlus Nord 2,Smartwatch,102
+P0406,LG Wing,Smartphone,137
+P0407,ASUS VivoBook S15,Laptop,319
+P0408,Garmin Fenix 7,Tablet,581
+P0409,Razer Blade 15,Smartwatch,466
+P0410,Xiaomi Redmi Note 10,Smartphone,127
+P0411,ASUS ROG Phone 5,Laptop,280
+P0412,Dell XPS 13,Tablet,166
+P0413,Samsung Galaxy Z Fold 3,Smartwatch,244
+P0414,HP Pavilion Gaming,Smartphone,394
+P0415,Fossil Gen 6,Laptop,514
+P0416,Lenovo K13,Tablet,519
+P0417,Nokia X20,Smartwatch,450
+P0418,LG Gram,Smartphone,355
+P0419,Google Pixel 4a 5G,Laptop,129
+P0420,Realme GT,Tablet,585
+P0421,Amazfit GTR 3,Smartwatch,130
+P0422,Huawei MateBook D,Smartphone,576
+P0423,HTC Desire 21,Laptop,199
+P0424,MSI GS66 Stealth,Tablet,401
+P0425,Vivo X70,Smartwatch,148
+P0426,Oppo A74,Smartphone,223
+P0427,Google Pixelbook,Laptop,203
+P0428,Honor Magic 3,Tablet,488
+P0429,Samsung Galaxy A52,Smartwatch,575
+P0430,Acer Chromebook Spin,Smartphone,161
+P0431,Lenovo Legion Phone Duel,Laptop,141
+P0432,Microsoft Surface Book,Tablet,598
+P0433,iPhone 13,Smartwatch,550
+P0434,Blackberry Key3,Smartphone,577
+P0435,ASUS ZenBook Pro Duo,Laptop,473
+P0436,Sony Xperia 10 III,Tablet,351
+P0437,Samsung Galaxy Watch 4,Smartwatch,103
+P0438,Acer Swift 5,Smartphone,190
+P0439,Xiaomi Mi 11,Laptop,336
+P0440,Huawei Watch GT 3,Tablet,500
+P0441,LG Q92,Smartwatch,449
+P0442,Dell Inspiron 15,Smartphone,306
+P0443,Blackberry Evolve,Laptop,397
+P0444,Oppo Reno6,Tablet,221
+P0445,Honor 50,Smartwatch,199
+P0446,iPhone SE (2022),Smartphone,500
+P0447,Realme C25,Laptop,268
+P0448,MSI Creator Z16,Tablet,254
+P0449,Samsung Galaxy M42,Smartwatch,323
+P0450,Lenovo ThinkPad X1 Carbon,Smartphone,322
+P0451,ASUS Zenfone 8 Flip,Laptop,256
+P0452,Fitbit Sense,Tablet,436
+P0453,OnePlus 9R,Smartwatch,347
+P0454,Microsoft Surface Laptop,Smartphone,569
+P0455,LG UltraGear,Laptop,220
+P0456,Nokia 5.4,Tablet,225
+P0457,Motorola Edge+,Smartwatch,594
+P0458,Xiaomi Mi Notebook,Smartphone,420
+P0459,Huawei Nova 8,Laptop,310
+P0460,Samsung Galaxy Book,Tablet,278
+P0461,TicWatch Pro 4,Smartwatch,159
+P0462,ASUS ROG Zephyrus G14,Smartphone,599
+P0463,Apple MacBook Air,Laptop,227
+P0464,Google Pixel 6 Pro,Tablet,543
+P0465,Lenovo Tab P11,Smartwatch,241
+P0466,Vivo V21,Smartphone,234
+P0467,Oppo Find X5,Laptop,363
+P0468,Samsung Galaxy A32,Tablet,201
+P0469,Dell Alienware 17,Smartwatch,578
+P0470,Honor 30S,Smartphone,278
+P0471,ASUS VivoBook Flip,Laptop,107
+P0472,Xiaomi Mi Watch,Tablet,346
+P0473,Sony Xperia 5 III,Smartwatch,217
+P0474,Lenovo Legion Y740,Smartphone,143
+P0475,Google Pixel Slate,Laptop,549
+P0476,ASUS Zenfone 8,Tablet,452
+P0477,HP Envy x360,Smartwatch,481
+P0478,Alienware m15,Smartphone,521
+P0479,ASUS TUF Gaming A15,Laptop,294
+P0480,LG Velvet,Tablet,411
+P0481,HP Spectre x360,Smartwatch,566
+P0482,Acer Predator Helios,Smartphone,559
+P0483,Apple Watch Series 7 (lặp lại?),Laptop,511
+P0484,ZTE Axon 30,Tablet,346
+P0485,Dell Latitude,Smartwatch,235
+P0486,Samsung Galaxy Chromebook,Smartphone,337
+P0487,Huawei MateBook X Pro,Laptop,220
+P0488,Lenovo Yoga Slim 7,Tablet,556
+P0489,Realme Narzo 50,Smartwatch,487
+P0490,MSI Aero 15,Smartphone,243
+P0491,Oppo Watch RX,Laptop,131
+P0492,iPhone 13 Pro,Tablet,134
+P0493,Blackberry Key2,Smartwatch,236
+P0494,ASUS ROG Zephyrus Duo,Smartphone,245
+P0495,Xiaomi RedmiBook,Laptop,411
+P0496,Huawei Mate 40,Tablet,114
+P0497,HP Omen 15,Smartwatch,589
+P0498,Acer Aspire,Smartphone,157
+P0499,Motorola Moto E7,Laptop,440
+P0500,Samsung Notebook 9,Tablet,161
+P0501,Apple Watch Series 7,Smartwatch,468
+P0502,Huawei P50,Smartphone,535
+P0503,Xiaomi Poco X3,Laptop,302
+P0504,Lenovo Yoga C940,Tablet,203
+P0505,OnePlus Nord 2,Smartwatch,595
+P0506,LG Wing,Smartphone,256
+P0507,ASUS VivoBook S15,Laptop,228
+P0508,Garmin Fenix 7,Tablet,288
+P0509,Razer Blade 15,Smartwatch,321
+P0510,Xiaomi Redmi Note 10,Smartphone,591
+P0511,ASUS ROG Phone 5,Laptop,140
+P0512,Dell XPS 13,Tablet,288
+P0513,Samsung Galaxy Z Fold 3,Smartwatch,268
+P0514,HP Pavilion Gaming,Smartphone,305
+P0515,Fossil Gen 6,Laptop,406
+P0516,Lenovo K13,Tablet,426
+P0517,Nokia X20,Smartwatch,439
+P0518,LG Gram,Smartphone,402
+P0519,Google Pixel 4a 5G,Laptop,538
+P0520,Realme GT,Tablet,297
+P0521,Amazfit GTR 3,Smartwatch,568
+P0522,Huawei MateBook D,Smartphone,322
+P0523,HTC Desire 21,Laptop,261
+P0524,MSI GS66 Stealth,Tablet,234
+P0525,Vivo X70,Smartwatch,499
+P0526,Oppo A74,Smartphone,358
+P0527,Google Pixelbook,Laptop,457
+P0528,Honor Magic 3,Tablet,407
+P0529,Samsung Galaxy A52,Smartwatch,367
+P0530,Acer Chromebook Spin,Smartphone,194
+P0531,Lenovo Legion Phone Duel,Laptop,173
+P0532,Microsoft Surface Book,Tablet,223
+P0533,iPhone 13,Smartwatch,301
+P0534,Blackberry Key3,Smartphone,574
+P0535,ASUS ZenBook Pro Duo,Laptop,219
+P0536,Sony Xperia 10 III,Tablet,453
+P0537,Samsung Galaxy Watch 4,Smartwatch,548
+P0538,Acer Swift 5,Smartphone,482
+P0539,Xiaomi Mi 11,Laptop,230
+P0540,Huawei Watch GT 3,Tablet,195
+P0541,LG Q92,Smartwatch,411
+P0542,Dell Inspiron 15,Smartphone,440
+P0543,Blackberry Evolve,Laptop,585
+P0544,Oppo Reno6,Tablet,557
+P0545,Honor 50,Smartwatch,144
+P0546,iPhone SE (2022),Smartphone,489
+P0547,Realme C25,Laptop,407
+P0548,MSI Creator Z16,Tablet,207
+P0549,Samsung Galaxy M42,Smartwatch,298
+P0550,Lenovo ThinkPad X1 Carbon,Smartphone,192
+P0551,ASUS Zenfone 8 Flip,Laptop,307
+P0552,Fitbit Sense,Tablet,532
+P0553,OnePlus 9R,Smartwatch,516
+P0554,Microsoft Surface Laptop,Smartphone,146
+P0555,LG UltraGear,Laptop,211
+P0556,Nokia 5.4,Tablet,403
+P0557,Motorola Edge+,Smartwatch,354
+P0558,Xiaomi Mi Notebook,Smartphone,272
+P0559,Huawei Nova 8,Laptop,402
+P0560,Samsung Galaxy Book,Tablet,234
+P0561,TicWatch Pro 4,Smartwatch,590
+P0562,ASUS ROG Zephyrus G14,Smartphone,349
+P0563,Apple MacBook Air,Laptop,132
+P0564,Google Pixel 6 Pro,Tablet,521
+P0565,Lenovo Tab P11,Smartwatch,502
+P0566,Vivo V21,Smartphone,414
+P0567,Oppo Find X5,Laptop,157
+P0568,Samsung Galaxy A32,Tablet,185
+P0569,Dell Alienware 17,Smartwatch,297
+P0570,Honor 30S,Smartphone,336
+P0571,ASUS VivoBook Flip,Laptop,287
+P0572,Xiaomi Mi Watch,Tablet,395
+P0573,Sony Xperia 5 III,Smartwatch,568
+P0574,Lenovo Legion Y740,Smartphone,506
+P0575,Google Pixel Slate,Laptop,341
+P0576,ASUS Zenfone 8,Tablet,129
+P0577,HP Envy x360,Smartwatch,528
+P0578,Alienware m15,Smartphone,530
+P0579,ASUS TUF Gaming A15,Laptop,353
+P0580,LG Velvet,Tablet,373
+P0581,HP Spectre x360,Smartwatch,525
+P0582,Acer Predator Helios,Smartphone,442
+P0583,Apple Watch Series 7 (lặp lại?),Laptop,511
+P0584,ZTE Axon 30,Tablet,339
+P0585,Dell Latitude,Smartwatch,139
+P0586,Samsung Galaxy Chromebook,Smartphone,243
+P0587,Huawei MateBook X Pro,Laptop,564
+P0588,Lenovo Yoga Slim 7,Tablet,474
+P0589,Realme Narzo 50,Smartwatch,270
+P0590,MSI Aero 15,Smartphone,428
+P0591,Oppo Watch RX,Laptop,444
+P0592,iPhone 13 Pro,Tablet,308
+P0593,Blackberry Key2,Smartwatch,192
+P0594,ASUS ROG Zephyrus Duo,Smartphone,127
+P0595,Xiaomi RedmiBook,Laptop,448
+P0596,Huawei Mate 40,Tablet,162
+P0597,HP Omen 15,Smartwatch,542
+P0598,Acer Aspire,Smartphone,276
+P0599,Motorola Moto E7,Laptop,508
+P0600,Samsung Notebook 9,Tablet,541
+P0601,Apple Watch Series 7,Smartwatch,484
+P0602,Huawei P50,Smartphone,583
+P0603,Xiaomi Poco X3,Laptop,443
+P0604,Lenovo Yoga C940,Tablet,431
+P0605,OnePlus Nord 2,Smartwatch,150
+P0606,LG Wing,Smartphone,451
+P0607,ASUS VivoBook S15,Laptop,483
+P0608,Garmin Fenix 7,Tablet,519
+P0609,Razer Blade 15,Smartwatch,404
+P0610,Xiaomi Redmi Note 10,Smartphone,176
+P0611,ASUS ROG Phone 5,Laptop,119
+P0612,Dell XPS 13,Tablet,547
+P0613,Samsung Galaxy Z Fold 3,Smartwatch,270
+P0614,HP Pavilion Gaming,Smartphone,357
+P0615,Fossil Gen 6,Laptop,370
+P0616,Lenovo K13,Tablet,366
+P0617,Nokia X20,Smartwatch,534
+P0618,LG Gram,Smartphone,579
+P0619,Google Pixel 4a 5G,Laptop,561
+P0620,Realme GT,Tablet,370
+P0621,Amazfit GTR 3,Smartwatch,230
+P0622,Huawei MateBook D,Smartphone,353
+P0623,HTC Desire 21,Laptop,258
+P0624,MSI GS66 Stealth,Tablet,268
+P0625,Vivo X70,Smartwatch,520
+P0626,Oppo A74,Smartphone,529
+P0627,Google Pixelbook,Laptop,102
+P0628,Honor Magic 3,Tablet,277
+P0629,Samsung Galaxy A52,Smartwatch,160
+P0630,Acer Chromebook Spin,Smartphone,265
+P0631,Lenovo Legion Phone Duel,Laptop,213
+P0632,Microsoft Surface Book,Tablet,206
+P0633,iPhone 13,Smartwatch,394
+P0634,Blackberry Key3,Smartphone,183
+P0635,ASUS ZenBook Pro Duo,Laptop,545
+P0636,Sony Xperia 10 III,Tablet,505
+P0637,Samsung Galaxy Watch 4,Smartwatch,228
+P0638,Acer Swift 5,Smartphone,153
+P0639,Xiaomi Mi 11,Laptop,309
+P0640,Huawei Watch GT 3,Tablet,199
+P0641,LG Q92,Smartwatch,500
+P0642,Dell Inspiron 15,Smartphone,252
+P0643,Blackberry Evolve,Laptop,314
+P0644,Oppo Reno6,Tablet,349
+P0645,Honor 50,Smartwatch,349
+P0646,iPhone SE (2022),Smartphone,432
+P0647,Realme C25,Laptop,306
+P0648,MSI Creator Z16,Tablet,238
+P0649,Samsung Galaxy M42,Smartwatch,576
+P0650,Lenovo ThinkPad X1 Carbon,Smartphone,429
+P0651,ASUS Zenfone 8 Flip,Laptop,148
+P0652,Fitbit Sense,Tablet,359
+P0653,OnePlus 9R,Smartwatch,317
+P0654,Microsoft Surface Laptop,Smartphone,371
+P0655,LG UltraGear,Laptop,408
+P0656,Nokia 5.4,Tablet,480
+P0657,Motorola Edge+,Smartwatch,528
+P0658,Xiaomi Mi Notebook,Smartphone,362
+P0659,Huawei Nova 8,Laptop,359
+P0660,Samsung Galaxy Book,Tablet,213
+P0661,TicWatch Pro 4,Smartwatch,424
+P0662,ASUS ROG Zephyrus G14,Smartphone,191
+P0663,Apple MacBook Air,Laptop,516
+P0664,Google Pixel 6 Pro,Tablet,378
+P0665,Lenovo Tab P11,Smartwatch,483
+P0666,Vivo V21,Smartphone,176
+P0667,Oppo Find X5,Laptop,338
+P0668,Samsung Galaxy A32,Tablet,586
+P0669,Dell Alienware 17,Smartwatch,193
+P0670,Honor 30S,Smartphone,298
+P0671,ASUS VivoBook Flip,Laptop,319
+P0672,Xiaomi Mi Watch,Tablet,197
+P0673,Sony Xperia 5 III,Smartwatch,453
+P0674,Lenovo Legion Y740,Smartphone,173
+P0675,Google Pixel Slate,Laptop,520
+P0676,ASUS Zenfone 8,Tablet,466
+P0677,HP Envy x360,Smartwatch,472
+P0678,Alienware m15,Smartphone,253
+P0679,ASUS TUF Gaming A15,Laptop,132
+P0680,LG Velvet,Tablet,429
+P0681,HP Spectre x360,Smartwatch,528
+P0682,Acer Predator Helios,Smartphone,118
+P0683,Apple Watch Series 7 (lặp lại?),Laptop,513
+P0684,ZTE Axon 30,Tablet,564
+P0685,Dell Latitude,Smartwatch,194
+P0686,Samsung Galaxy Chromebook,Smartphone,597
+P0687,Huawei MateBook X Pro,Laptop,304
+P0688,Lenovo Yoga Slim 7,Tablet,375
+P0689,Realme Narzo 50,Smartwatch,586
+P0690,MSI Aero 15,Smartphone,570
+P0691,Oppo Watch RX,Laptop,530
+P0692,iPhone 13 Pro,Tablet,394
+P0693,Blackberry Key2,Smartwatch,323
+P0694,ASUS ROG Zephyrus Duo,Smartphone,201
+P0695,Xiaomi RedmiBook,Laptop,202
+P0696,Huawei Mate 40,Tablet,221
+P0697,HP Omen 15,Smartwatch,278
+P0698,Acer Aspire,Smartphone,576
+P0699,Motorola Moto E7,Laptop,516
+P0700,Samsung Notebook 9,Tablet,565
+P0701,Apple Watch Series 7,Smartwatch,389
+P0702,Huawei P50,Smartphone,363
+P0703,Xiaomi Poco X3,Laptop,116
+P0704,Lenovo Yoga C940,Tablet,482
+P0705,OnePlus Nord 2,Smartwatch,510
+P0706,LG Wing,Smartphone,255
+P0707,ASUS VivoBook S15,Laptop,151
+P0708,Garmin Fenix 7,Tablet,337
+P0709,Razer Blade 15,Smartwatch,184
+P0710,Xiaomi Redmi Note 10,Smartphone,353
+P0711,ASUS ROG Phone 5,Laptop,517
+P0712,Dell XPS 13,Tablet,218
+P0713,Samsung Galaxy Z Fold 3,Smartwatch,546
+P0714,HP Pavilion Gaming,Smartphone,121
+P0715,Fossil Gen 6,Laptop,337
+P0716,Lenovo K13,Tablet,321
+P0717,Nokia X20,Smartwatch,549
+P0718,LG Gram,Smartphone,231
+P0719,Google Pixel 4a 5G,Laptop,488
+P0720,Realme GT,Tablet,301
+P0721,Amazfit GTR 3,Smartwatch,313
+P0722,Huawei MateBook D,Smartphone,503
+P0723,HTC Desire 21,Laptop,127
+P0724,MSI GS66 Stealth,Tablet,407
+P0725,Vivo X70,Smartwatch,564
+P0726,Oppo A74,Smartphone,108
+P0727,Google Pixelbook,Laptop,234
+P0728,Honor Magic 3,Tablet,443
+P0729,Samsung Galaxy A52,Smartwatch,535
+P0730,Acer Chromebook Spin,Smartphone,169
+P0731,Lenovo Legion Phone Duel,Laptop,286
+P0732,Microsoft Surface Book,Tablet,204
+P0733,iPhone 13,Smartwatch,364
+P0734,Blackberry Key3,Smartphone,194
+P0735,ASUS ZenBook Pro Duo,Laptop,184
+P0736,Sony Xperia 10 III,Tablet,105
+P0737,Samsung Galaxy Watch 4,Smartwatch,232
+P0738,Acer Swift 5,Smartphone,562
+P0739,Xiaomi Mi 11,Laptop,136
+P0740,Huawei Watch GT 3,Tablet,116
+P0741,LG Q92,Smartwatch,541
+P0742,Dell Inspiron 15,Smartphone,500
+P0743,Blackberry Evolve,Laptop,137
+P0744,Oppo Reno6,Tablet,178
+P0745,Honor 50,Smartwatch,283
+P0746,iPhone SE (2022),Smartphone,554
+P0747,Realme C25,Laptop,245
+P0748,MSI Creator Z16,Tablet,205
+P0749,Samsung Galaxy M42,Smartwatch,460
+P0750,Lenovo ThinkPad X1 Carbon,Smartphone,292
+P0751,ASUS Zenfone 8 Flip,Laptop,532
+P0752,Fitbit Sense,Tablet,584
+P0753,OnePlus 9R,Smartwatch,529
+P0754,Microsoft Surface Laptop,Smartphone,469
+P0755,LG UltraGear,Laptop,388
+P0756,Nokia 5.4,Tablet,476
+P0757,Motorola Edge+,Smartwatch,163
+P0758,Xiaomi Mi Notebook,Smartphone,463
+P0759,Huawei Nova 8,Laptop,217
+P0760,Samsung Galaxy Book,Tablet,517
+P0761,TicWatch Pro 4,Smartwatch,589
+P0762,ASUS ROG Zephyrus G14,Smartphone,321
+P0763,Apple MacBook Air,Laptop,328
+P0764,Google Pixel 6 Pro,Tablet,234
+P0765,Lenovo Tab P11,Smartwatch,302
+P0766,Vivo V21,Smartphone,444
+P0767,Oppo Find X5,Laptop,397
+P0768,Samsung Galaxy A32,Tablet,409
+P0769,Dell Alienware 17,Smartwatch,502
+P0770,Honor 30S,Smartphone,563
+P0771,ASUS VivoBook Flip,Laptop,322
+P0772,Xiaomi Mi Watch,Tablet,213
+P0773,Sony Xperia 5 III,Smartwatch,339
+P0774,Lenovo Legion Y740,Smartphone,426
+P0775,Google Pixel Slate,Laptop,579
+P0776,ASUS Zenfone 8,Tablet,572
+P0777,HP Envy x360,Smartwatch,491
+P0778,Alienware m15,Smartphone,347
+P0779,ASUS TUF Gaming A15,Laptop,133
+P0780,LG Velvet,Tablet,320
+P0781,HP Spectre x360,Smartwatch,367
+P0782,Acer Predator Helios,Smartphone,176
+P0783,Apple Watch Series 7 (lặp lại?),Laptop,393
+P0784,ZTE Axon 30,Tablet,351
+P0785,Dell Latitude,Smartwatch,546
+P0786,Samsung Galaxy Chromebook,Smartphone,343
+P0787,Huawei MateBook X Pro,Laptop,241
+P0788,Lenovo Yoga Slim 7,Tablet,236
+P0789,Realme Narzo 50,Smartwatch,472
+P0790,MSI Aero 15,Smartphone,360
+P0791,Oppo Watch RX,Laptop,557
+P0792,iPhone 13 Pro,Tablet,381
+P0793,Blackberry Key2,Smartwatch,555
+P0794,ASUS ROG Zephyrus Duo,Smartphone,220
+P0795,Xiaomi RedmiBook,Laptop,394
+P0796,Huawei Mate 40,Tablet,348
+P0797,HP Omen 15,Smartwatch,332
+P0798,Acer Aspire,Smartphone,591
+P0799,Motorola Moto E7,Laptop,521
+P0800,Samsung Notebook 9,Tablet,438
+P0801,Apple Watch Series 7,Smartwatch,551
+P0802,Huawei P50,Smartphone,451
+P0803,Xiaomi Poco X3,Laptop,597
+P0804,Lenovo Yoga C940,Tablet,262
+P0805,OnePlus Nord 2,Smartwatch,501
+P0806,LG Wing,Smartphone,474
+P0807,ASUS VivoBook S15,Laptop,193
+P0808,Garmin Fenix 7,Tablet,183
+P0809,Razer Blade 15,Smartwatch,303
+P0810,Xiaomi Redmi Note 10,Smartphone,517
+P0811,ASUS ROG Phone 5,Laptop,506
+P0812,Dell XPS 13,Tablet,270
+P0813,Samsung Galaxy Z Fold 3,Smartwatch,441
+P0814,HP Pavilion Gaming,Smartphone,227
+P0815,Fossil Gen 6,Laptop,541
+P0816,Lenovo K13,Tablet,339
+P0817,Nokia X20,Smartwatch,227
+P0818,LG Gram,Smartphone,408
+P0819,Google Pixel 4a 5G,Laptop,120
+P0820,Realme GT,Tablet,597
+P0821,Amazfit GTR 3,Smartwatch,569
+P0822,Huawei MateBook D,Smartphone,334
+P0823,HTC Desire 21,Laptop,563
+P0824,MSI GS66 Stealth,Tablet,436
+P0825,Vivo X70,Smartwatch,264
+P0826,Oppo A74,Smartphone,285
+P0827,Google Pixelbook,Laptop,488
+P0828,Honor Magic 3,Tablet,345
+P0829,Samsung Galaxy A52,Smartwatch,120
+P0830,Acer Chromebook Spin,Smartphone,143
+P0831,Lenovo Legion Phone Duel,Laptop,393
+P0832,Microsoft Surface Book,Tablet,389
+P0833,iPhone 13,Smartwatch,353
+P0834,Blackberry Key3,Smartphone,262
+P0835,ASUS ZenBook Pro Duo,Laptop,238
+P0836,Sony Xperia 10 III,Tablet,554
+P0837,Samsung Galaxy Watch 4,Smartwatch,362
+P0838,Acer Swift 5,Smartphone,480
+P0839,Xiaomi Mi 11,Laptop,170
+P0840,Huawei Watch GT 3,Tablet,517
+P0841,LG Q92,Smartwatch,461
+P0842,Dell Inspiron 15,Smartphone,434
+P0843,Blackberry Evolve,Laptop,532
+P0844,Oppo Reno6,Tablet,584
+P0845,Honor 50,Smartwatch,209
+P0846,iPhone SE (2022),Smartphone,243
+P0847,Realme C25,Laptop,328
+P0848,MSI Creator Z16,Tablet,477
+P0849,Samsung Galaxy M42,Smartwatch,304
+P0850,Lenovo ThinkPad X1 Carbon,Smartphone,489
+P0851,ASUS Zenfone 8 Flip,Laptop,199
+P0852,Fitbit Sense,Tablet,487
+P0853,OnePlus 9R,Smartwatch,442
+P0854,Microsoft Surface Laptop,Smartphone,424
+P0855,LG UltraGear,Laptop,353
+P0856,Nokia 5.4,Tablet,540
+P0857,Motorola Edge+,Smartwatch,498
+P0858,Xiaomi Mi Notebook,Smartphone,475
+P0859,Huawei Nova 8,Laptop,508
+P0860,Samsung Galaxy Book,Tablet,348
+P0861,TicWatch Pro 4,Smartwatch,372
+P0862,ASUS ROG Zephyrus G14,Smartphone,479
+P0863,Apple MacBook Air,Laptop,517
+P0864,Google Pixel 6 Pro,Tablet,347
+P0865,Lenovo Tab P11,Smartwatch,247
+P0866,Vivo V21,Smartphone,153
+P0867,Oppo Find X5,Laptop,168
+P0868,Samsung Galaxy A32,Tablet,508
+P0869,Dell Alienware 17,Smartwatch,537
+P0870,Honor 30S,Smartphone,173
+P0871,ASUS VivoBook Flip,Laptop,545
+P0872,Xiaomi Mi Watch,Tablet,385
+P0873,Sony Xperia 5 III,Smartwatch,190
+P0874,Lenovo Legion Y740,Smartphone,561
+P0875,Google Pixel Slate,Laptop,141
+P0876,ASUS Zenfone 8,Tablet,562
+P0877,HP Envy x360,Smartwatch,474
+P0878,Alienware m15,Smartphone,498
+P0879,ASUS TUF Gaming A15,Laptop,567
+P0880,LG Velvet,Tablet,588
+P0881,HP Spectre x360,Smartwatch,398
+P0882,Acer Predator Helios,Smartphone,339
+P0883,Apple Watch Series 7 (lặp lại?),Laptop,298
+P0884,ZTE Axon 30,Tablet,364
+P0885,Dell Latitude,Smartwatch,115
+P0886,Samsung Galaxy Chromebook,Smartphone,397
+P0887,Huawei MateBook X Pro,Laptop,113
+P0888,Lenovo Yoga Slim 7,Tablet,582
+P0889,Realme Narzo 50,Smartwatch,286
+P0890,MSI Aero 15,Smartphone,473
+P0891,Oppo Watch RX,Laptop,223
+P0892,iPhone 13 Pro,Tablet,219
+P0893,Blackberry Key2,Smartwatch,352
+P0894,ASUS ROG Zephyrus Duo,Smartphone,226
+P0895,Xiaomi RedmiBook,Laptop,126
+P0896,Huawei Mate 40,Tablet,240
+P0897,HP Omen 15,Smartwatch,200
+P0898,Acer Aspire,Smartphone,390
+P0899,Motorola Moto E7,Laptop,236
+P0900,Samsung Notebook 9,Tablet,390
+P0901,Apple Watch Series 7,Smartwatch,488
+P0902,Huawei P50,Smartphone,262
+P0903,Xiaomi Poco X3,Laptop,110
+P0904,Lenovo Yoga C940,Tablet,409
+P0905,OnePlus Nord 2,Smartwatch,323
+P0906,LG Wing,Smartphone,476
+P0907,ASUS VivoBook S15,Laptop,222
+P0908,Garmin Fenix 7,Tablet,169
+P0909,Razer Blade 15,Smartwatch,131
+P0910,Xiaomi Redmi Note 10,Smartphone,426
+P0911,ASUS ROG Phone 5,Laptop,316
+P0912,Dell XPS 13,Tablet,511
+P0913,Samsung Galaxy Z Fold 3,Smartwatch,500
+P0914,HP Pavilion Gaming,Smartphone,530
+P0915,Fossil Gen 6,Laptop,367
+P0916,Lenovo K13,Tablet,293
+P0917,Nokia X20,Smartwatch,518
+P0918,LG Gram,Smartphone,347
+P0919,Google Pixel 4a 5G,Laptop,468
+P0920,Realme GT,Tablet,328
+P0921,Amazfit GTR 3,Smartwatch,280
+P0922,Huawei MateBook D,Smartphone,509
+P0923,HTC Desire 21,Laptop,573
+P0924,MSI GS66 Stealth,Tablet,504
+P0925,Vivo X70,Smartwatch,227
+P0926,Oppo A74,Smartphone,134
+P0927,Google Pixelbook,Laptop,252
+P0928,Honor Magic 3,Tablet,495
+P0929,Samsung Galaxy A52,Smartwatch,101
+P0930,Acer Chromebook Spin,Smartphone,267
+P0931,Lenovo Legion Phone Duel,Laptop,326
+P0932,Microsoft Surface Book,Tablet,359
+P0933,iPhone 13,Smartwatch,415
+P0934,Blackberry Key3,Smartphone,554
+P0935,ASUS ZenBook Pro Duo,Laptop,184
+P0936,Sony Xperia 10 III,Tablet,452
+P0937,Samsung Galaxy Watch 4,Smartwatch,458
+P0938,Acer Swift 5,Smartphone,583
+P0939,Xiaomi Mi 11,Laptop,250
+P0940,Huawei Watch GT 3,Tablet,290
+P0941,LG Q92,Smartwatch,426
+P0942,Dell Inspiron 15,Smartphone,142
+P0943,Blackberry Evolve,Laptop,241
+P0944,Oppo Reno6,Tablet,156
+P0945,Honor 50,Smartwatch,190
+P0946,iPhone SE (2022),Smartphone,325
+P0947,Realme C25,Laptop,421
+P0948,MSI Creator Z16,Tablet,317
+P0949,Samsung Galaxy M42,Smartwatch,537
+P0950,Lenovo ThinkPad X1 Carbon,Smartphone,537
+P0951,ASUS Zenfone 8 Flip,Laptop,373
+P0952,Fitbit Sense,Tablet,398
+P0953,OnePlus 9R,Smartwatch,475
+P0954,Microsoft Surface Laptop,Smartphone,381
+P0955,LG UltraGear,Laptop,199
+P0956,Nokia 5.4,Tablet,442
+P0957,Motorola Edge+,Smartwatch,340
+P0958,Xiaomi Mi Notebook,Smartphone,281
+P0959,Huawei Nova 8,Laptop,329
+P0960,Samsung Galaxy Book,Tablet,404
+P0961,TicWatch Pro 4,Smartwatch,236
+P0962,ASUS ROG Zephyrus G14,Smartphone,161
+P0963,Apple MacBook Air,Laptop,519
+P0964,Google Pixel 6 Pro,Tablet,531
+P0965,Lenovo Tab P11,Smartwatch,321
+P0966,Vivo V21,Smartphone,285
+P0967,Oppo Find X5,Laptop,538
+P0968,Samsung Galaxy A32,Tablet,448
+P0969,Dell Alienware 17,Smartwatch,146
+P0970,Honor 30S,Smartphone,188
+P0971,ASUS VivoBook Flip,Laptop,462
+P0972,Xiaomi Mi Watch,Tablet,518
+P0973,Sony Xperia 5 III,Smartwatch,158
+P0974,Lenovo Legion Y740,Smartphone,290
+P0975,Google Pixel Slate,Laptop,205
+P0976,ASUS Zenfone 8,Tablet,343
+P0977,HP Envy x360,Smartwatch,345
+P0978,Alienware m15,Smartphone,123
+P0979,ASUS TUF Gaming A15,Laptop,301
+P0980,LG Velvet,Tablet,589
+P0981,HP Spectre x360,Smartwatch,308
+P0982,Acer Predator Helios,Smartphone,367
+P0983,Apple Watch Series 7 (lặp lại?),Laptop,454
+P0984,ZTE Axon 30,Tablet,348
+P0985,Dell Latitude,Smartwatch,510
+P0986,Samsung Galaxy Chromebook,Smartphone,582
+P0987,Huawei MateBook X Pro,Laptop,514
+P0988,Lenovo Yoga Slim 7,Tablet,107
+P0989,Realme Narzo 50,Smartwatch,202
+P0990,MSI Aero 15,Smartphone,106
+P0991,Oppo Watch RX,Laptop,424
+P0992,iPhone 13 Pro,Tablet,419
+P0993,Blackberry Key2,Smartwatch,452
+P0994,ASUS ROG Zephyrus Duo,Smartphone,593
+P0995,Xiaomi RedmiBook,Laptop,220
+P0996,Huawei Mate 40,Tablet,125
+P0997,HP Omen 15,Smartwatch,272
+P0998,Acer Aspire,Smartphone,382
+P0999,Motorola Moto E7,Laptop,240
+P1000,Samsung Notebook 9,Tablet,348

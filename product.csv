@@ -1,0 +1,1001 @@
+Product ID,Name,Category,Price
+P0001,Apple Watch Series 7,Smartwatch,$5.66 
+P0002,Huawei P50,Smartphone,$2.77 
+P0003,Xiaomi Poco X3,Laptop,$8.96 
+P0004,Lenovo Yoga C940,Tablet,$5.68 
+P0005,OnePlus Nord 2,Smartwatch,$0.36 
+P0006,LG Wing,Smartphone,$0.97 
+P0007,ASUS VivoBook S15,Laptop,$6.57 
+P0008,Garmin Fenix 7,Tablet,$2.73 
+P0009,Razer Blade 15,Smartwatch,$9.02 
+P0010,Xiaomi Redmi Note 10,Smartphone,$1.58 
+P0011,ASUS ROG Phone 5,Laptop,$7.85 
+P0012,Dell XPS 13,Tablet,$7.52 
+P0013,Samsung Galaxy Z Fold 3,Smartwatch,$3.77 
+P0014,HP Pavilion Gaming,Smartphone,$6.65 
+P0015,Fossil Gen 6,Laptop,$1.68 
+P0016,Lenovo K13,Tablet,$8.54 
+P0017,Nokia X20,Smartwatch,$7.50 
+P0018,LG Gram,Smartphone,$2.51 
+P0019,Google Pixel 4a 5G,Laptop,$1.23 
+P0020,Realme GT,Tablet,$4.73 
+P0021,Amazfit GTR 3,Smartwatch,$4.51 
+P0022,Huawei MateBook D,Smartphone,$7.60 
+P0023,HTC Desire 21,Laptop,$6.43 
+P0024,MSI GS66 Stealth,Tablet,$4.96 
+P0025,Vivo X70,Smartwatch,$4.27 
+P0026,Oppo A74,Smartphone,$5.94 
+P0027,Google Pixelbook,Laptop,$0.68 
+P0028,Honor Magic 3,Tablet,$6.78 
+P0029,Samsung Galaxy A52,Smartwatch,$6.37 
+P0030,Acer Chromebook Spin,Smartphone,$3.92 
+P0031,Lenovo Legion Phone Duel,Laptop,$3.74 
+P0032,Microsoft Surface Book,Tablet,$0.64 
+P0033,iPhone 13,Smartwatch,$3.04 
+P0034,Blackberry Key3,Smartphone,$7.79 
+P0035,ASUS ZenBook Pro Duo,Laptop,$2.86 
+P0036,Sony Xperia 10 III,Tablet,$6.33 
+P0037,Samsung Galaxy Watch 4,Smartwatch,$4.62 
+P0038,Acer Swift 5,Smartphone,$9.38 
+P0039,Xiaomi Mi 11,Laptop,$2.71 
+P0040,Huawei Watch GT 3,Tablet,$1.77 
+P0041,LG Q92,Smartwatch,$2.25 
+P0042,Dell Inspiron 15,Smartphone,$7.95 
+P0043,Blackberry Evolve,Laptop,$9.28 
+P0044,Oppo Reno6,Tablet,$9.81 
+P0045,Honor 50,Smartwatch,$3.77 
+P0046,iPhone SE (2022),Smartphone,$0.61 
+P0047,Realme C25,Laptop,$8.68 
+P0048,MSI Creator Z16,Tablet,$8.61 
+P0049,Samsung Galaxy M42,Smartwatch,$8.67 
+P0050,Lenovo ThinkPad X1 Carbon,Smartphone,$7.12 
+P0051,ASUS Zenfone 8 Flip,Laptop,$8.55 
+P0052,Fitbit Sense,Tablet,$8.19 
+P0053,OnePlus 9R,Smartwatch,$0.21 
+P0054,Microsoft Surface Laptop,Smartphone,$2.75 
+P0055,LG UltraGear,Laptop,$3.51 
+P0056,Nokia 5.4,Tablet,$7.82 
+P0057,Motorola Edge+,Smartwatch,$6.22 
+P0058,Xiaomi Mi Notebook,Smartphone,$8.16 
+P0059,Huawei Nova 8,Laptop,$0.37 
+P0060,Samsung Galaxy Book,Tablet,$5.66 
+P0061,TicWatch Pro 4,Smartwatch,$2.64 
+P0062,ASUS ROG Zephyrus G14,Smartphone,$2.17 
+P0063,Apple MacBook Air,Laptop,$1.86 
+P0064,Google Pixel 6 Pro,Tablet,$5.17 
+P0065,Lenovo Tab P11,Smartwatch,$0.47 
+P0066,Vivo V21,Smartphone,$7.23 
+P0067,Oppo Find X5,Laptop,$4.36 
+P0068,Samsung Galaxy A32,Tablet,$5.37 
+P0069,Dell Alienware 17,Smartwatch,$5.22 
+P0070,Honor 30S,Smartphone,$9.01 
+P0071,ASUS VivoBook Flip,Laptop,$8.30 
+P0072,Xiaomi Mi Watch,Tablet,$0.60 
+P0073,Sony Xperia 5 III,Smartwatch,$5.89 
+P0074,Lenovo Legion Y740,Smartphone,$3.90 
+P0075,Google Pixel Slate,Laptop,$8.43 
+P0076,ASUS Zenfone 8,Tablet,$6.13 
+P0077,HP Envy x360,Smartwatch,$2.03 
+P0078,Alienware m15,Smartphone,$6.57 
+P0079,ASUS TUF Gaming A15,Laptop,$3.06 
+P0080,LG Velvet,Tablet,$7.93 
+P0081,HP Spectre x360,Smartwatch,$6.11 
+P0082,Acer Predator Helios,Smartphone,$4.95 
+P0083,Apple Watch Series 7 (lặp lại?),Laptop,$5.00 
+P0084,ZTE Axon 30,Tablet,$3.77 
+P0085,Dell Latitude,Smartwatch,$6.68 
+P0086,Samsung Galaxy Chromebook,Smartphone,$2.86 
+P0087,Huawei MateBook X Pro,Laptop,$2.57 
+P0088,Lenovo Yoga Slim 7,Tablet,$6.71 
+P0089,Realme Narzo 50,Smartwatch,$8.85 
+P0090,MSI Aero 15,Smartphone,$7.73 
+P0091,Oppo Watch RX,Laptop,$5.97 
+P0092,iPhone 13 Pro,Tablet,$3.81 
+P0093,Blackberry Key2,Smartwatch,$1.45 
+P0094,ASUS ROG Zephyrus Duo,Smartphone,$2.43 
+P0095,Xiaomi RedmiBook,Laptop,$7.64 
+P0096,Huawei Mate 40,Tablet,$2.13 
+P0097,HP Omen 15,Smartwatch,$6.00 
+P0098,Acer Aspire,Smartphone,$8.90 
+P0099,Motorola Moto E7,Laptop,$1.13 
+P0100,Samsung Notebook 9,Tablet,$2.66 
+P0101,Apple Watch Series 7,Smartwatch,$4.92 
+P0102,Huawei P50,Smartphone,$2.41 
+P0103,Xiaomi Poco X3,Laptop,$5.08 
+P0104,Lenovo Yoga C940,Tablet,$8.51 
+P0105,OnePlus Nord 2,Smartwatch,$7.55 
+P0106,LG Wing,Smartphone,$3.99 
+P0107,ASUS VivoBook S15,Laptop,$4.73 
+P0108,Garmin Fenix 7,Tablet,$1.15 
+P0109,Razer Blade 15,Smartwatch,$9.36 
+P0110,Xiaomi Redmi Note 10,Smartphone,$7.00 
+P0111,ASUS ROG Phone 5,Laptop,$0.46 
+P0112,Dell XPS 13,Tablet,$4.62 
+P0113,Samsung Galaxy Z Fold 3,Smartwatch,$1.92 
+P0114,HP Pavilion Gaming,Smartphone,$5.65 
+P0115,Fossil Gen 6,Laptop,$0.38 
+P0116,Lenovo K13,Tablet,$3.01 
+P0117,Nokia X20,Smartwatch,$8.97 
+P0118,LG Gram,Smartphone,$1.14 
+P0119,Google Pixel 4a 5G,Laptop,$4.50 
+P0120,Realme GT,Tablet,$8.14 
+P0121,Amazfit GTR 3,Smartwatch,$9.26 
+P0122,Huawei MateBook D,Smartphone,$1.09 
+P0123,HTC Desire 21,Laptop,$3.41 
+P0124,MSI GS66 Stealth,Tablet,$4.10 
+P0125,Vivo X70,Smartwatch,$8.74 
+P0126,Oppo A74,Smartphone,$7.04 
+P0127,Google Pixelbook,Laptop,$7.32 
+P0128,Honor Magic 3,Tablet,$2.90 
+P0129,Samsung Galaxy A52,Smartwatch,$3.65 
+P0130,Acer Chromebook Spin,Smartphone,$6.99 
+P0131,Lenovo Legion Phone Duel,Laptop,$5.70 
+P0132,Microsoft Surface Book,Tablet,$4.62 
+P0133,iPhone 13,Smartwatch,$7.53 
+P0134,Blackberry Key3,Smartphone,$6.93 
+P0135,ASUS ZenBook Pro Duo,Laptop,$5.23 
+P0136,Sony Xperia 10 III,Tablet,$5.48 
+P0137,Samsung Galaxy Watch 4,Smartwatch,$8.07 
+P0138,Acer Swift 5,Smartphone,$8.85 
+P0139,Xiaomi Mi 11,Laptop,$7.18 
+P0140,Huawei Watch GT 3,Tablet,$0.95 
+P0141,LG Q92,Smartwatch,$7.57 
+P0142,Dell Inspiron 15,Smartphone,$7.75 
+P0143,Blackberry Evolve,Laptop,$8.75 
+P0144,Oppo Reno6,Tablet,$1.71 
+P0145,Honor 50,Smartwatch,$5.38 
+P0146,iPhone SE (2022),Smartphone,$7.45 
+P0147,Realme C25,Laptop,$7.51 
+P0148,MSI Creator Z16,Tablet,$6.12 
+P0149,Samsung Galaxy M42,Smartwatch,$4.08 
+P0150,Lenovo ThinkPad X1 Carbon,Smartphone,$1.54 
+P0151,ASUS Zenfone 8 Flip,Laptop,$0.40 
+P0152,Fitbit Sense,Tablet,$7.64 
+P0153,OnePlus 9R,Smartwatch,$0.69 
+P0154,Microsoft Surface Laptop,Smartphone,$8.47 
+P0155,LG UltraGear,Laptop,$4.25 
+P0156,Nokia 5.4,Tablet,$0.85 
+P0157,Motorola Edge+,Smartwatch,$9.66 
+P0158,Xiaomi Mi Notebook,Smartphone,$4.37 
+P0159,Huawei Nova 8,Laptop,$6.81 
+P0160,Samsung Galaxy Book,Tablet,$3.87 
+P0161,TicWatch Pro 4,Smartwatch,$3.71 
+P0162,ASUS ROG Zephyrus G14,Smartphone,$8.66 
+P0163,Apple MacBook Air,Laptop,$2.57 
+P0164,Google Pixel 6 Pro,Tablet,$1.05 
+P0165,Lenovo Tab P11,Smartwatch,$0.10 
+P0166,Vivo V21,Smartphone,$3.02 
+P0167,Oppo Find X5,Laptop,$6.01 
+P0168,Samsung Galaxy A32,Tablet,$0.97 
+P0169,Dell Alienware 17,Smartwatch,$0.27 
+P0170,Honor 30S,Smartphone,$9.98 
+P0171,ASUS VivoBook Flip,Laptop,$7.44 
+P0172,Xiaomi Mi Watch,Tablet,$1.42 
+P0173,Sony Xperia 5 III,Smartwatch,$8.56 
+P0174,Lenovo Legion Y740,Smartphone,$5.74 
+P0175,Google Pixel Slate,Laptop,$0.79 
+P0176,ASUS Zenfone 8,Tablet,$5.62 
+P0177,HP Envy x360,Smartwatch,$6.57 
+P0178,Alienware m15,Smartphone,$8.75 
+P0179,ASUS TUF Gaming A15,Laptop,$9.12 
+P0180,LG Velvet,Tablet,$4.89 
+P0181,HP Spectre x360,Smartwatch,$0.76 
+P0182,Acer Predator Helios,Smartphone,$1.93 
+P0183,Apple Watch Series 7 (lặp lại?),Laptop,$0.19 
+P0184,ZTE Axon 30,Tablet,$7.75 
+P0185,Dell Latitude,Smartwatch,$8.07 
+P0186,Samsung Galaxy Chromebook,Smartphone,$5.29 
+P0187,Huawei MateBook X Pro,Laptop,$1.44 
+P0188,Lenovo Yoga Slim 7,Tablet,$3.47 
+P0189,Realme Narzo 50,Smartwatch,$3.16 
+P0190,MSI Aero 15,Smartphone,$9.78 
+P0191,Oppo Watch RX,Laptop,$2.82 
+P0192,iPhone 13 Pro,Tablet,$6.38 
+P0193,Blackberry Key2,Smartwatch,$9.20 
+P0194,ASUS ROG Zephyrus Duo,Smartphone,$1.06 
+P0195,Xiaomi RedmiBook,Laptop,$9.78 
+P0196,Huawei Mate 40,Tablet,$9.90 
+P0197,HP Omen 15,Smartwatch,$9.43 
+P0198,Acer Aspire,Smartphone,$5.88 
+P0199,Motorola Moto E7,Laptop,$9.67 
+P0200,Samsung Notebook 9,Tablet,$4.13 
+P0201,Apple Watch Series 7,Smartwatch,$9.17 
+P0202,Huawei P50,Smartphone,$6.12 
+P0203,Xiaomi Poco X3,Laptop,$8.71 
+P0204,Lenovo Yoga C940,Tablet,$7.10 
+P0205,OnePlus Nord 2,Smartwatch,$3.68 
+P0206,LG Wing,Smartphone,$0.88 
+P0207,ASUS VivoBook S15,Laptop,$7.62 
+P0208,Garmin Fenix 7,Tablet,$5.00 
+P0209,Razer Blade 15,Smartwatch,$6.80 
+P0210,Xiaomi Redmi Note 10,Smartphone,$1.60 
+P0211,ASUS ROG Phone 5,Laptop,$9.48 
+P0212,Dell XPS 13,Tablet,$9.85 
+P0213,Samsung Galaxy Z Fold 3,Smartwatch,$4.92 
+P0214,HP Pavilion Gaming,Smartphone,$5.77 
+P0215,Fossil Gen 6,Laptop,$7.58 
+P0216,Lenovo K13,Tablet,$4.80 
+P0217,Nokia X20,Smartwatch,$1.15 
+P0218,LG Gram,Smartphone,$4.68 
+P0219,Google Pixel 4a 5G,Laptop,$9.14 
+P0220,Realme GT,Tablet,$3.85 
+P0221,Amazfit GTR 3,Smartwatch,$3.17 
+P0222,Huawei MateBook D,Smartphone,$9.69 
+P0223,HTC Desire 21,Laptop,$7.48 
+P0224,MSI GS66 Stealth,Tablet,$5.34 
+P0225,Vivo X70,Smartwatch,$4.98 
+P0226,Oppo A74,Smartphone,$1.14 
+P0227,Google Pixelbook,Laptop,$2.41 
+P0228,Honor Magic 3,Tablet,$1.01 
+P0229,Samsung Galaxy A52,Smartwatch,$7.16 
+P0230,Acer Chromebook Spin,Smartphone,$4.67 
+P0231,Lenovo Legion Phone Duel,Laptop,$4.17 
+P0232,Microsoft Surface Book,Tablet,$4.30 
+P0233,iPhone 13,Smartwatch,$8.64 
+P0234,Blackberry Key3,Smartphone,$10.00 
+P0235,ASUS ZenBook Pro Duo,Laptop,$4.96 
+P0236,Sony Xperia 10 III,Tablet,$2.33 
+P0237,Samsung Galaxy Watch 4,Smartwatch,$2.24 
+P0238,Acer Swift 5,Smartphone,$3.56 
+P0239,Xiaomi Mi 11,Laptop,$4.65 
+P0240,Huawei Watch GT 3,Tablet,$8.00 
+P0241,LG Q92,Smartwatch,$9.07 
+P0242,Dell Inspiron 15,Smartphone,$6.83 
+P0243,Blackberry Evolve,Laptop,$5.63 
+P0244,Oppo Reno6,Tablet,$1.91 
+P0245,Honor 50,Smartwatch,$8.08 
+P0246,iPhone SE (2022),Smartphone,$9.64 
+P0247,Realme C25,Laptop,$0.12 
+P0248,MSI Creator Z16,Tablet,$0.53 
+P0249,Samsung Galaxy M42,Smartwatch,$8.07 
+P0250,Lenovo ThinkPad X1 Carbon,Smartphone,$9.26 
+P0251,ASUS Zenfone 8 Flip,Laptop,$4.73 
+P0252,Fitbit Sense,Tablet,$1.03 
+P0253,OnePlus 9R,Smartwatch,$2.97 
+P0254,Microsoft Surface Laptop,Smartphone,$6.54 
+P0255,LG UltraGear,Laptop,$6.18 
+P0256,Nokia 5.4,Tablet,$4.77 
+P0257,Motorola Edge+,Smartwatch,$4.92 
+P0258,Xiaomi Mi Notebook,Smartphone,$1.94 
+P0259,Huawei Nova 8,Laptop,$5.37 
+P0260,Samsung Galaxy Book,Tablet,$3.10 
+P0261,TicWatch Pro 4,Smartwatch,$3.16 
+P0262,ASUS ROG Zephyrus G14,Smartphone,$9.86 
+P0263,Apple MacBook Air,Laptop,$9.80 
+P0264,Google Pixel 6 Pro,Tablet,$9.40 
+P0265,Lenovo Tab P11,Smartwatch,$9.79 
+P0266,Vivo V21,Smartphone,$2.01 
+P0267,Oppo Find X5,Laptop,$6.21 
+P0268,Samsung Galaxy A32,Tablet,$0.15 
+P0269,Dell Alienware 17,Smartwatch,$2.25 
+P0270,Honor 30S,Smartphone,$7.46 
+P0271,ASUS VivoBook Flip,Laptop,$8.30 
+P0272,Xiaomi Mi Watch,Tablet,$5.71 
+P0273,Sony Xperia 5 III,Smartwatch,$5.13 
+P0274,Lenovo Legion Y740,Smartphone,$9.71 
+P0275,Google Pixel Slate,Laptop,$1.22 
+P0276,ASUS Zenfone 8,Tablet,$4.20 
+P0277,HP Envy x360,Smartwatch,$0.75 
+P0278,Alienware m15,Smartphone,$2.18 
+P0279,ASUS TUF Gaming A15,Laptop,$7.09 
+P0280,LG Velvet,Tablet,$8.16 
+P0281,HP Spectre x360,Smartwatch,$1.75 
+P0282,Acer Predator Helios,Smartphone,$7.95 
+P0283,Apple Watch Series 7 (lặp lại?),Laptop,$2.57 
+P0284,ZTE Axon 30,Tablet,$4.16 
+P0285,Dell Latitude,Smartwatch,$0.53 
+P0286,Samsung Galaxy Chromebook,Smartphone,$2.69 
+P0287,Huawei MateBook X Pro,Laptop,$5.94 
+P0288,Lenovo Yoga Slim 7,Tablet,$2.08 
+P0289,Realme Narzo 50,Smartwatch,$4.82 
+P0290,MSI Aero 15,Smartphone,$1.59 
+P0291,Oppo Watch RX,Laptop,$1.36 
+P0292,iPhone 13 Pro,Tablet,$6.10 
+P0293,Blackberry Key2,Smartwatch,$1.77 
+P0294,ASUS ROG Zephyrus Duo,Smartphone,$2.88 
+P0295,Xiaomi RedmiBook,Laptop,$5.28 
+P0296,Huawei Mate 40,Tablet,$1.73 
+P0297,HP Omen 15,Smartwatch,$6.43 
+P0298,Acer Aspire,Smartphone,$3.72 
+P0299,Motorola Moto E7,Laptop,$5.45 
+P0300,Samsung Notebook 9,Tablet,$2.40 
+P0301,Apple Watch Series 7,Smartwatch,$7.85 
+P0302,Huawei P50,Smartphone,$6.31 
+P0303,Xiaomi Poco X3,Laptop,$4.10 
+P0304,Lenovo Yoga C940,Tablet,$5.82 
+P0305,OnePlus Nord 2,Smartwatch,$2.27 
+P0306,LG Wing,Smartphone,$9.15 
+P0307,ASUS VivoBook S15,Laptop,$2.37 
+P0308,Garmin Fenix 7,Tablet,$7.79 
+P0309,Razer Blade 15,Smartwatch,$0.73 
+P0310,Xiaomi Redmi Note 10,Smartphone,$7.42 
+P0311,ASUS ROG Phone 5,Laptop,$7.03 
+P0312,Dell XPS 13,Tablet,$1.42 
+P0313,Samsung Galaxy Z Fold 3,Smartwatch,$1.73 
+P0314,HP Pavilion Gaming,Smartphone,$5.52 
+P0315,Fossil Gen 6,Laptop,$0.53 
+P0316,Lenovo K13,Tablet,$1.07 
+P0317,Nokia X20,Smartwatch,$2.14 
+P0318,LG Gram,Smartphone,$9.48 
+P0319,Google Pixel 4a 5G,Laptop,$2.28 
+P0320,Realme GT,Tablet,$8.34 
+P0321,Amazfit GTR 3,Smartwatch,$6.28 
+P0322,Huawei MateBook D,Smartphone,$0.78 
+P0323,HTC Desire 21,Laptop,$1.21 
+P0324,MSI GS66 Stealth,Tablet,$1.83 
+P0325,Vivo X70,Smartwatch,$6.23 
+P0326,Oppo A74,Smartphone,$5.91 
+P0327,Google Pixelbook,Laptop,$2.76 
+P0328,Honor Magic 3,Tablet,$7.17 
+P0329,Samsung Galaxy A52,Smartwatch,$2.83 
+P0330,Acer Chromebook Spin,Smartphone,$1.40 
+P0331,Lenovo Legion Phone Duel,Laptop,$6.65 
+P0332,Microsoft Surface Book,Tablet,$5.20 
+P0333,iPhone 13,Smartwatch,$0.26 
+P0334,Blackberry Key3,Smartphone,$2.96 
+P0335,ASUS ZenBook Pro Duo,Laptop,$9.22 
+P0336,Sony Xperia 10 III,Tablet,$4.61 
+P0337,Samsung Galaxy Watch 4,Smartwatch,$5.90 
+P0338,Acer Swift 5,Smartphone,$9.66 
+P0339,Xiaomi Mi 11,Laptop,$7.38 
+P0340,Huawei Watch GT 3,Tablet,$5.52 
+P0341,LG Q92,Smartwatch,$6.73 
+P0342,Dell Inspiron 15,Smartphone,$9.11 
+P0343,Blackberry Evolve,Laptop,$2.90 
+P0344,Oppo Reno6,Tablet,$3.17 
+P0345,Honor 50,Smartwatch,$6.24 
+P0346,iPhone SE (2022),Smartphone,$9.49 
+P0347,Realme C25,Laptop,$4.26 
+P0348,MSI Creator Z16,Tablet,$6.08 
+P0349,Samsung Galaxy M42,Smartwatch,$2.88 
+P0350,Lenovo ThinkPad X1 Carbon,Smartphone,$6.16 
+P0351,ASUS Zenfone 8 Flip,Laptop,$2.92 
+P0352,Fitbit Sense,Tablet,$0.36 
+P0353,OnePlus 9R,Smartwatch,$8.15 
+P0354,Microsoft Surface Laptop,Smartphone,$9.50 
+P0355,LG UltraGear,Laptop,$8.15 
+P0356,Nokia 5.4,Tablet,$6.06 
+P0357,Motorola Edge+,Smartwatch,$9.97 
+P0358,Xiaomi Mi Notebook,Smartphone,$9.28 
+P0359,Huawei Nova 8,Laptop,$1.05 
+P0360,Samsung Galaxy Book,Tablet,$7.18 
+P0361,TicWatch Pro 4,Smartwatch,$4.88 
+P0362,ASUS ROG Zephyrus G14,Smartphone,$4.41 
+P0363,Apple MacBook Air,Laptop,$6.62 
+P0364,Google Pixel 6 Pro,Tablet,$7.36 
+P0365,Lenovo Tab P11,Smartwatch,$4.91 
+P0366,Vivo V21,Smartphone,$6.67 
+P0367,Oppo Find X5,Laptop,$5.01 
+P0368,Samsung Galaxy A32,Tablet,$8.13 
+P0369,Dell Alienware 17,Smartwatch,$4.44 
+P0370,Honor 30S,Smartphone,$5.17 
+P0371,ASUS VivoBook Flip,Laptop,$2.70 
+P0372,Xiaomi Mi Watch,Tablet,$3.50 
+P0373,Sony Xperia 5 III,Smartwatch,$9.70 
+P0374,Lenovo Legion Y740,Smartphone,$4.58 
+P0375,Google Pixel Slate,Laptop,$8.93 
+P0376,ASUS Zenfone 8,Tablet,$8.42 
+P0377,HP Envy x360,Smartwatch,$9.40 
+P0378,Alienware m15,Smartphone,$9.53 
+P0379,ASUS TUF Gaming A15,Laptop,$3.74 
+P0380,LG Velvet,Tablet,$7.04 
+P0381,HP Spectre x360,Smartwatch,$3.31 
+P0382,Acer Predator Helios,Smartphone,$0.12 
+P0383,Apple Watch Series 7 (lặp lại?),Laptop,$8.88 
+P0384,ZTE Axon 30,Tablet,$9.31 
+P0385,Dell Latitude,Smartwatch,$7.18 
+P0386,Samsung Galaxy Chromebook,Smartphone,$6.37 
+P0387,Huawei MateBook X Pro,Laptop,$9.99 
+P0388,Lenovo Yoga Slim 7,Tablet,$4.98 
+P0389,Realme Narzo 50,Smartwatch,$4.53 
+P0390,MSI Aero 15,Smartphone,$6.56 
+P0391,Oppo Watch RX,Laptop,$7.47 
+P0392,iPhone 13 Pro,Tablet,$2.93 
+P0393,Blackberry Key2,Smartwatch,$1.88 
+P0394,ASUS ROG Zephyrus Duo,Smartphone,$4.80 
+P0395,Xiaomi RedmiBook,Laptop,$1.70 
+P0396,Huawei Mate 40,Tablet,$1.83 
+P0397,HP Omen 15,Smartwatch,$1.45 
+P0398,Acer Aspire,Smartphone,$8.36 
+P0399,Motorola Moto E7,Laptop,$4.98 
+P0400,Samsung Notebook 9,Tablet,$8.89 
+P0401,Apple Watch Series 7,Smartwatch,$0.90 
+P0402,Huawei P50,Smartphone,$6.89 
+P0403,Xiaomi Poco X3,Laptop,$0.09 
+P0404,Lenovo Yoga C940,Tablet,$7.28 
+P0405,OnePlus Nord 2,Smartwatch,$3.95 
+P0406,LG Wing,Smartphone,$0.75 
+P0407,ASUS VivoBook S15,Laptop,$2.25 
+P0408,Garmin Fenix 7,Tablet,$9.70 
+P0409,Razer Blade 15,Smartwatch,$2.80 
+P0410,Xiaomi Redmi Note 10,Smartphone,$5.01 
+P0411,ASUS ROG Phone 5,Laptop,$3.23 
+P0412,Dell XPS 13,Tablet,$0.19 
+P0413,Samsung Galaxy Z Fold 3,Smartwatch,$2.06 
+P0414,HP Pavilion Gaming,Smartphone,$1.80 
+P0415,Fossil Gen 6,Laptop,$2.14 
+P0416,Lenovo K13,Tablet,$5.85 
+P0417,Nokia X20,Smartwatch,$0.27 
+P0418,LG Gram,Smartphone,$9.96 
+P0419,Google Pixel 4a 5G,Laptop,$5.90 
+P0420,Realme GT,Tablet,$5.97 
+P0421,Amazfit GTR 3,Smartwatch,$9.50 
+P0422,Huawei MateBook D,Smartphone,$5.67 
+P0423,HTC Desire 21,Laptop,$9.62 
+P0424,MSI GS66 Stealth,Tablet,$4.73 
+P0425,Vivo X70,Smartwatch,$0.25 
+P0426,Oppo A74,Smartphone,$7.65 
+P0427,Google Pixelbook,Laptop,$7.80 
+P0428,Honor Magic 3,Tablet,$1.75 
+P0429,Samsung Galaxy A52,Smartwatch,$1.98 
+P0430,Acer Chromebook Spin,Smartphone,$9.59 
+P0431,Lenovo Legion Phone Duel,Laptop,$8.62 
+P0432,Microsoft Surface Book,Tablet,$3.39 
+P0433,iPhone 13,Smartwatch,$0.09 
+P0434,Blackberry Key3,Smartphone,$0.57 
+P0435,ASUS ZenBook Pro Duo,Laptop,$8.37 
+P0436,Sony Xperia 10 III,Tablet,$4.40 
+P0437,Samsung Galaxy Watch 4,Smartwatch,$8.38 
+P0438,Acer Swift 5,Smartphone,$0.01 
+P0439,Xiaomi Mi 11,Laptop,$1.32 
+P0440,Huawei Watch GT 3,Tablet,$1.74 
+P0441,LG Q92,Smartwatch,$2.96 
+P0442,Dell Inspiron 15,Smartphone,$1.81 
+P0443,Blackberry Evolve,Laptop,$1.04 
+P0444,Oppo Reno6,Tablet,$2.13 
+P0445,Honor 50,Smartwatch,$6.33 
+P0446,iPhone SE (2022),Smartphone,$8.66 
+P0447,Realme C25,Laptop,$2.57 
+P0448,MSI Creator Z16,Tablet,$8.42 
+P0449,Samsung Galaxy M42,Smartwatch,$1.43 
+P0450,Lenovo ThinkPad X1 Carbon,Smartphone,$4.44 
+P0451,ASUS Zenfone 8 Flip,Laptop,$3.78 
+P0452,Fitbit Sense,Tablet,$4.86 
+P0453,OnePlus 9R,Smartwatch,$4.51 
+P0454,Microsoft Surface Laptop,Smartphone,$1.96 
+P0455,LG UltraGear,Laptop,$1.12 
+P0456,Nokia 5.4,Tablet,$0.39 
+P0457,Motorola Edge+,Smartwatch,$7.25 
+P0458,Xiaomi Mi Notebook,Smartphone,$2.74 
+P0459,Huawei Nova 8,Laptop,$7.75 
+P0460,Samsung Galaxy Book,Tablet,$4.69 
+P0461,TicWatch Pro 4,Smartwatch,$3.21 
+P0462,ASUS ROG Zephyrus G14,Smartphone,$4.03 
+P0463,Apple MacBook Air,Laptop,$9.92 
+P0464,Google Pixel 6 Pro,Tablet,$1.43 
+P0465,Lenovo Tab P11,Smartwatch,$6.97 
+P0466,Vivo V21,Smartphone,$1.62 
+P0467,Oppo Find X5,Laptop,$0.60 
+P0468,Samsung Galaxy A32,Tablet,$8.86 
+P0469,Dell Alienware 17,Smartwatch,$0.19 
+P0470,Honor 30S,Smartphone,$2.90 
+P0471,ASUS VivoBook Flip,Laptop,$1.75 
+P0472,Xiaomi Mi Watch,Tablet,$0.87 
+P0473,Sony Xperia 5 III,Smartwatch,$2.94 
+P0474,Lenovo Legion Y740,Smartphone,$4.77 
+P0475,Google Pixel Slate,Laptop,$7.24 
+P0476,ASUS Zenfone 8,Tablet,$9.64 
+P0477,HP Envy x360,Smartwatch,$8.28 
+P0478,Alienware m15,Smartphone,$4.49 
+P0479,ASUS TUF Gaming A15,Laptop,$2.69 
+P0480,LG Velvet,Tablet,$4.53 
+P0481,HP Spectre x360,Smartwatch,$1.76 
+P0482,Acer Predator Helios,Smartphone,$8.22 
+P0483,Apple Watch Series 7 (lặp lại?),Laptop,$8.93 
+P0484,ZTE Axon 30,Tablet,$0.99 
+P0485,Dell Latitude,Smartwatch,$9.06 
+P0486,Samsung Galaxy Chromebook,Smartphone,$0.30 
+P0487,Huawei MateBook X Pro,Laptop,$4.59 
+P0488,Lenovo Yoga Slim 7,Tablet,$6.16 
+P0489,Realme Narzo 50,Smartwatch,$3.45 
+P0490,MSI Aero 15,Smartphone,$9.24 
+P0491,Oppo Watch RX,Laptop,$0.51 
+P0492,iPhone 13 Pro,Tablet,$9.07 
+P0493,Blackberry Key2,Smartwatch,$8.10 
+P0494,ASUS ROG Zephyrus Duo,Smartphone,$9.30 
+P0495,Xiaomi RedmiBook,Laptop,$7.74 
+P0496,Huawei Mate 40,Tablet,$3.13 
+P0497,HP Omen 15,Smartwatch,$1.08 
+P0498,Acer Aspire,Smartphone,$3.07 
+P0499,Motorola Moto E7,Laptop,$6.08 
+P0500,Samsung Notebook 9,Tablet,$8.26 
+P0501,Apple Watch Series 7,Smartwatch,$8.33 
+P0502,Huawei P50,Smartphone,$3.57 
+P0503,Xiaomi Poco X3,Laptop,$3.20 
+P0504,Lenovo Yoga C940,Tablet,$7.38 
+P0505,OnePlus Nord 2,Smartwatch,$2.48 
+P0506,LG Wing,Smartphone,$6.96 
+P0507,ASUS VivoBook S15,Laptop,$0.47 
+P0508,Garmin Fenix 7,Tablet,$7.73 
+P0509,Razer Blade 15,Smartwatch,$9.88 
+P0510,Xiaomi Redmi Note 10,Smartphone,$5.24 
+P0511,ASUS ROG Phone 5,Laptop,$0.62 
+P0512,Dell XPS 13,Tablet,$9.98 
+P0513,Samsung Galaxy Z Fold 3,Smartwatch,$3.62 
+P0514,HP Pavilion Gaming,Smartphone,$0.25 
+P0515,Fossil Gen 6,Laptop,$9.08 
+P0516,Lenovo K13,Tablet,$5.53 
+P0517,Nokia X20,Smartwatch,$5.43 
+P0518,LG Gram,Smartphone,$3.58 
+P0519,Google Pixel 4a 5G,Laptop,$5.26 
+P0520,Realme GT,Tablet,$4.97 
+P0521,Amazfit GTR 3,Smartwatch,$6.89 
+P0522,Huawei MateBook D,Smartphone,$2.89 
+P0523,HTC Desire 21,Laptop,$4.61 
+P0524,MSI GS66 Stealth,Tablet,$1.99 
+P0525,Vivo X70,Smartwatch,$8.86 
+P0526,Oppo A74,Smartphone,$1.93 
+P0527,Google Pixelbook,Laptop,$0.40 
+P0528,Honor Magic 3,Tablet,$3.88 
+P0529,Samsung Galaxy A52,Smartwatch,$4.05 
+P0530,Acer Chromebook Spin,Smartphone,$7.94 
+P0531,Lenovo Legion Phone Duel,Laptop,$5.37 
+P0532,Microsoft Surface Book,Tablet,$5.57 
+P0533,iPhone 13,Smartwatch,$7.98 
+P0534,Blackberry Key3,Smartphone,$8.25 
+P0535,ASUS ZenBook Pro Duo,Laptop,$4.02 
+P0536,Sony Xperia 10 III,Tablet,$2.26 
+P0537,Samsung Galaxy Watch 4,Smartwatch,$6.21 
+P0538,Acer Swift 5,Smartphone,$4.42 
+P0539,Xiaomi Mi 11,Laptop,$2.56 
+P0540,Huawei Watch GT 3,Tablet,$1.87 
+P0541,LG Q92,Smartwatch,$9.33 
+P0542,Dell Inspiron 15,Smartphone,$9.48 
+P0543,Blackberry Evolve,Laptop,$3.40 
+P0544,Oppo Reno6,Tablet,$0.35 
+P0545,Honor 50,Smartwatch,$6.42 
+P0546,iPhone SE (2022),Smartphone,$1.51 
+P0547,Realme C25,Laptop,$2.92 
+P0548,MSI Creator Z16,Tablet,$9.29 
+P0549,Samsung Galaxy M42,Smartwatch,$8.12 
+P0550,Lenovo ThinkPad X1 Carbon,Smartphone,$0.66 
+P0551,ASUS Zenfone 8 Flip,Laptop,$0.74 
+P0552,Fitbit Sense,Tablet,$1.91 
+P0553,OnePlus 9R,Smartwatch,$5.93 
+P0554,Microsoft Surface Laptop,Smartphone,$0.39 
+P0555,LG UltraGear,Laptop,$5.54 
+P0556,Nokia 5.4,Tablet,$3.18 
+P0557,Motorola Edge+,Smartwatch,$1.80 
+P0558,Xiaomi Mi Notebook,Smartphone,$9.16 
+P0559,Huawei Nova 8,Laptop,$6.65 
+P0560,Samsung Galaxy Book,Tablet,$1.12 
+P0561,TicWatch Pro 4,Smartwatch,$9.08 
+P0562,ASUS ROG Zephyrus G14,Smartphone,$4.58 
+P0563,Apple MacBook Air,Laptop,$8.92 
+P0564,Google Pixel 6 Pro,Tablet,$5.72 
+P0565,Lenovo Tab P11,Smartwatch,$2.55 
+P0566,Vivo V21,Smartphone,$3.30 
+P0567,Oppo Find X5,Laptop,$3.67 
+P0568,Samsung Galaxy A32,Tablet,$0.60 
+P0569,Dell Alienware 17,Smartwatch,$0.09 
+P0570,Honor 30S,Smartphone,$0.69 
+P0571,ASUS VivoBook Flip,Laptop,$5.08 
+P0572,Xiaomi Mi Watch,Tablet,$5.52 
+P0573,Sony Xperia 5 III,Smartwatch,$4.48 
+P0574,Lenovo Legion Y740,Smartphone,$5.55 
+P0575,Google Pixel Slate,Laptop,$9.11 
+P0576,ASUS Zenfone 8,Tablet,$0.27 
+P0577,HP Envy x360,Smartwatch,$6.15 
+P0578,Alienware m15,Smartphone,$7.98 
+P0579,ASUS TUF Gaming A15,Laptop,$9.01 
+P0580,LG Velvet,Tablet,$8.48 
+P0581,HP Spectre x360,Smartwatch,$1.71 
+P0582,Acer Predator Helios,Smartphone,$5.74 
+P0583,Apple Watch Series 7 (lặp lại?),Laptop,$3.19 
+P0584,ZTE Axon 30,Tablet,$0.84 
+P0585,Dell Latitude,Smartwatch,$0.25 
+P0586,Samsung Galaxy Chromebook,Smartphone,$4.21 
+P0587,Huawei MateBook X Pro,Laptop,$0.35 
+P0588,Lenovo Yoga Slim 7,Tablet,$2.05 
+P0589,Realme Narzo 50,Smartwatch,$4.85 
+P0590,MSI Aero 15,Smartphone,$0.36 
+P0591,Oppo Watch RX,Laptop,$9.70 
+P0592,iPhone 13 Pro,Tablet,$2.16 
+P0593,Blackberry Key2,Smartwatch,$4.29 
+P0594,ASUS ROG Zephyrus Duo,Smartphone,$1.29 
+P0595,Xiaomi RedmiBook,Laptop,$5.52 
+P0596,Huawei Mate 40,Tablet,$9.15 
+P0597,HP Omen 15,Smartwatch,$8.59 
+P0598,Acer Aspire,Smartphone,$4.66 
+P0599,Motorola Moto E7,Laptop,$2.77 
+P0600,Samsung Notebook 9,Tablet,$2.74 
+P0601,Apple Watch Series 7,Smartwatch,$2.01 
+P0602,Huawei P50,Smartphone,$6.91 
+P0603,Xiaomi Poco X3,Laptop,$1.77 
+P0604,Lenovo Yoga C940,Tablet,$8.57 
+P0605,OnePlus Nord 2,Smartwatch,$9.32 
+P0606,LG Wing,Smartphone,$4.91 
+P0607,ASUS VivoBook S15,Laptop,$7.71 
+P0608,Garmin Fenix 7,Tablet,$2.58 
+P0609,Razer Blade 15,Smartwatch,$7.11 
+P0610,Xiaomi Redmi Note 10,Smartphone,$6.37 
+P0611,ASUS ROG Phone 5,Laptop,$4.60 
+P0612,Dell XPS 13,Tablet,$8.91 
+P0613,Samsung Galaxy Z Fold 3,Smartwatch,$8.25 
+P0614,HP Pavilion Gaming,Smartphone,$4.58 
+P0615,Fossil Gen 6,Laptop,$5.48 
+P0616,Lenovo K13,Tablet,$8.00 
+P0617,Nokia X20,Smartwatch,$7.84 
+P0618,LG Gram,Smartphone,$3.02 
+P0619,Google Pixel 4a 5G,Laptop,$5.21 
+P0620,Realme GT,Tablet,$8.64 
+P0621,Amazfit GTR 3,Smartwatch,$2.03 
+P0622,Huawei MateBook D,Smartphone,$8.70 
+P0623,HTC Desire 21,Laptop,$0.54 
+P0624,MSI GS66 Stealth,Tablet,$7.75 
+P0625,Vivo X70,Smartwatch,$3.88 
+P0626,Oppo A74,Smartphone,$1.45 
+P0627,Google Pixelbook,Laptop,$6.59 
+P0628,Honor Magic 3,Tablet,$0.64 
+P0629,Samsung Galaxy A52,Smartwatch,$5.09 
+P0630,Acer Chromebook Spin,Smartphone,$1.50 
+P0631,Lenovo Legion Phone Duel,Laptop,$1.33 
+P0632,Microsoft Surface Book,Tablet,$2.36 
+P0633,iPhone 13,Smartwatch,$1.20 
+P0634,Blackberry Key3,Smartphone,$4.96 
+P0635,ASUS ZenBook Pro Duo,Laptop,$5.61 
+P0636,Sony Xperia 10 III,Tablet,$7.36 
+P0637,Samsung Galaxy Watch 4,Smartwatch,$7.45 
+P0638,Acer Swift 5,Smartphone,$9.50 
+P0639,Xiaomi Mi 11,Laptop,$5.13 
+P0640,Huawei Watch GT 3,Tablet,$2.39 
+P0641,LG Q92,Smartwatch,$9.74 
+P0642,Dell Inspiron 15,Smartphone,$1.43 
+P0643,Blackberry Evolve,Laptop,$4.97 
+P0644,Oppo Reno6,Tablet,$0.79 
+P0645,Honor 50,Smartwatch,$2.94 
+P0646,iPhone SE (2022),Smartphone,$2.25 
+P0647,Realme C25,Laptop,$1.50 
+P0648,MSI Creator Z16,Tablet,$2.55 
+P0649,Samsung Galaxy M42,Smartwatch,$4.45 
+P0650,Lenovo ThinkPad X1 Carbon,Smartphone,$0.19 
+P0651,ASUS Zenfone 8 Flip,Laptop,$9.95 
+P0652,Fitbit Sense,Tablet,$3.73 
+P0653,OnePlus 9R,Smartwatch,$4.97 
+P0654,Microsoft Surface Laptop,Smartphone,$7.93 
+P0655,LG UltraGear,Laptop,$9.37 
+P0656,Nokia 5.4,Tablet,$7.97 
+P0657,Motorola Edge+,Smartwatch,$8.35 
+P0658,Xiaomi Mi Notebook,Smartphone,$0.82 
+P0659,Huawei Nova 8,Laptop,$5.59 
+P0660,Samsung Galaxy Book,Tablet,$3.34 
+P0661,TicWatch Pro 4,Smartwatch,$0.29 
+P0662,ASUS ROG Zephyrus G14,Smartphone,$6.12 
+P0663,Apple MacBook Air,Laptop,$7.78 
+P0664,Google Pixel 6 Pro,Tablet,$3.12 
+P0665,Lenovo Tab P11,Smartwatch,$7.12 
+P0666,Vivo V21,Smartphone,$9.11 
+P0667,Oppo Find X5,Laptop,$5.12 
+P0668,Samsung Galaxy A32,Tablet,$1.89 
+P0669,Dell Alienware 17,Smartwatch,$4.93 
+P0670,Honor 30S,Smartphone,$2.61 
+P0671,ASUS VivoBook Flip,Laptop,$6.66 
+P0672,Xiaomi Mi Watch,Tablet,$7.61 
+P0673,Sony Xperia 5 III,Smartwatch,$0.00 
+P0674,Lenovo Legion Y740,Smartphone,$1.93 
+P0675,Google Pixel Slate,Laptop,$9.82 
+P0676,ASUS Zenfone 8,Tablet,$4.90 
+P0677,HP Envy x360,Smartwatch,$6.63 
+P0678,Alienware m15,Smartphone,$8.28 
+P0679,ASUS TUF Gaming A15,Laptop,$2.39 
+P0680,LG Velvet,Tablet,$9.03 
+P0681,HP Spectre x360,Smartwatch,$6.37 
+P0682,Acer Predator Helios,Smartphone,$4.19 
+P0683,Apple Watch Series 7 (lặp lại?),Laptop,$8.66 
+P0684,ZTE Axon 30,Tablet,$1.54 
+P0685,Dell Latitude,Smartwatch,$5.21 
+P0686,Samsung Galaxy Chromebook,Smartphone,$9.56 
+P0687,Huawei MateBook X Pro,Laptop,$9.37 
+P0688,Lenovo Yoga Slim 7,Tablet,$0.30 
+P0689,Realme Narzo 50,Smartwatch,$9.20 
+P0690,MSI Aero 15,Smartphone,$3.91 
+P0691,Oppo Watch RX,Laptop,$4.20 
+P0692,iPhone 13 Pro,Tablet,$5.27 
+P0693,Blackberry Key2,Smartwatch,$5.09 
+P0694,ASUS ROG Zephyrus Duo,Smartphone,$6.52 
+P0695,Xiaomi RedmiBook,Laptop,$9.03 
+P0696,Huawei Mate 40,Tablet,$7.79 
+P0697,HP Omen 15,Smartwatch,$7.32 
+P0698,Acer Aspire,Smartphone,$1.76 
+P0699,Motorola Moto E7,Laptop,$9.48 
+P0700,Samsung Notebook 9,Tablet,$8.84 
+P0701,Apple Watch Series 7,Smartwatch,$4.63 
+P0702,Huawei P50,Smartphone,$9.02 
+P0703,Xiaomi Poco X3,Laptop,$3.79 
+P0704,Lenovo Yoga C940,Tablet,$8.33 
+P0705,OnePlus Nord 2,Smartwatch,$5.10 
+P0706,LG Wing,Smartphone,$1.63 
+P0707,ASUS VivoBook S15,Laptop,$1.09 
+P0708,Garmin Fenix 7,Tablet,$4.66 
+P0709,Razer Blade 15,Smartwatch,$6.61 
+P0710,Xiaomi Redmi Note 10,Smartphone,$2.43 
+P0711,ASUS ROG Phone 5,Laptop,$6.57 
+P0712,Dell XPS 13,Tablet,$9.96 
+P0713,Samsung Galaxy Z Fold 3,Smartwatch,$4.06 
+P0714,HP Pavilion Gaming,Smartphone,$7.74 
+P0715,Fossil Gen 6,Laptop,$2.93 
+P0716,Lenovo K13,Tablet,$4.65 
+P0717,Nokia X20,Smartwatch,$4.89 
+P0718,LG Gram,Smartphone,$7.52 
+P0719,Google Pixel 4a 5G,Laptop,$6.94 
+P0720,Realme GT,Tablet,$2.27 
+P0721,Amazfit GTR 3,Smartwatch,$7.59 
+P0722,Huawei MateBook D,Smartphone,$7.45 
+P0723,HTC Desire 21,Laptop,$8.50 
+P0724,MSI GS66 Stealth,Tablet,$5.40 
+P0725,Vivo X70,Smartwatch,$2.09 
+P0726,Oppo A74,Smartphone,$4.10 
+P0727,Google Pixelbook,Laptop,$8.63 
+P0728,Honor Magic 3,Tablet,$7.51 
+P0729,Samsung Galaxy A52,Smartwatch,$2.20 
+P0730,Acer Chromebook Spin,Smartphone,$0.86 
+P0731,Lenovo Legion Phone Duel,Laptop,$6.76 
+P0732,Microsoft Surface Book,Tablet,$9.21 
+P0733,iPhone 13,Smartwatch,$0.55 
+P0734,Blackberry Key3,Smartphone,$8.78 
+P0735,ASUS ZenBook Pro Duo,Laptop,$1.88 
+P0736,Sony Xperia 10 III,Tablet,$7.65 
+P0737,Samsung Galaxy Watch 4,Smartwatch,$6.40 
+P0738,Acer Swift 5,Smartphone,$2.70 
+P0739,Xiaomi Mi 11,Laptop,$1.12 
+P0740,Huawei Watch GT 3,Tablet,$7.96 
+P0741,LG Q92,Smartwatch,$5.51 
+P0742,Dell Inspiron 15,Smartphone,$5.95 
+P0743,Blackberry Evolve,Laptop,$1.92 
+P0744,Oppo Reno6,Tablet,$2.81 
+P0745,Honor 50,Smartwatch,$4.55 
+P0746,iPhone SE (2022),Smartphone,$4.26 
+P0747,Realme C25,Laptop,$8.52 
+P0748,MSI Creator Z16,Tablet,$7.21 
+P0749,Samsung Galaxy M42,Smartwatch,$3.17 
+P0750,Lenovo ThinkPad X1 Carbon,Smartphone,$4.45 
+P0751,ASUS Zenfone 8 Flip,Laptop,$0.20 
+P0752,Fitbit Sense,Tablet,$4.56 
+P0753,OnePlus 9R,Smartwatch,$6.23 
+P0754,Microsoft Surface Laptop,Smartphone,$6.64 
+P0755,LG UltraGear,Laptop,$2.87 
+P0756,Nokia 5.4,Tablet,$1.59 
+P0757,Motorola Edge+,Smartwatch,$5.72 
+P0758,Xiaomi Mi Notebook,Smartphone,$3.41 
+P0759,Huawei Nova 8,Laptop,$9.99 
+P0760,Samsung Galaxy Book,Tablet,$4.37 
+P0761,TicWatch Pro 4,Smartwatch,$6.29 
+P0762,ASUS ROG Zephyrus G14,Smartphone,$2.27 
+P0763,Apple MacBook Air,Laptop,$8.28 
+P0764,Google Pixel 6 Pro,Tablet,$4.35 
+P0765,Lenovo Tab P11,Smartwatch,$3.18 
+P0766,Vivo V21,Smartphone,$7.05 
+P0767,Oppo Find X5,Laptop,$8.58 
+P0768,Samsung Galaxy A32,Tablet,$1.26 
+P0769,Dell Alienware 17,Smartwatch,$0.43 
+P0770,Honor 30S,Smartphone,$4.36 
+P0771,ASUS VivoBook Flip,Laptop,$2.24 
+P0772,Xiaomi Mi Watch,Tablet,$4.74 
+P0773,Sony Xperia 5 III,Smartwatch,$7.55 
+P0774,Lenovo Legion Y740,Smartphone,$4.86 
+P0775,Google Pixel Slate,Laptop,$9.47 
+P0776,ASUS Zenfone 8,Tablet,$0.96 
+P0777,HP Envy x360,Smartwatch,$9.58 
+P0778,Alienware m15,Smartphone,$8.84 
+P0779,ASUS TUF Gaming A15,Laptop,$2.30 
+P0780,LG Velvet,Tablet,$8.03 
+P0781,HP Spectre x360,Smartwatch,$3.10 
+P0782,Acer Predator Helios,Smartphone,$9.02 
+P0783,Apple Watch Series 7 (lặp lại?),Laptop,$4.11 
+P0784,ZTE Axon 30,Tablet,$0.55 
+P0785,Dell Latitude,Smartwatch,$8.38 
+P0786,Samsung Galaxy Chromebook,Smartphone,$1.25 
+P0787,Huawei MateBook X Pro,Laptop,$5.05 
+P0788,Lenovo Yoga Slim 7,Tablet,$5.93 
+P0789,Realme Narzo 50,Smartwatch,$4.74 
+P0790,MSI Aero 15,Smartphone,$5.58 
+P0791,Oppo Watch RX,Laptop,$9.55 
+P0792,iPhone 13 Pro,Tablet,$7.75 
+P0793,Blackberry Key2,Smartwatch,$5.56 
+P0794,ASUS ROG Zephyrus Duo,Smartphone,$1.14 
+P0795,Xiaomi RedmiBook,Laptop,$4.36 
+P0796,Huawei Mate 40,Tablet,$1.13 
+P0797,HP Omen 15,Smartwatch,$6.72 
+P0798,Acer Aspire,Smartphone,$6.69 
+P0799,Motorola Moto E7,Laptop,$0.31 
+P0800,Samsung Notebook 9,Tablet,$6.48 
+P0801,Apple Watch Series 7,Smartwatch,$2.43 
+P0802,Huawei P50,Smartphone,$1.34 
+P0803,Xiaomi Poco X3,Laptop,$5.86 
+P0804,Lenovo Yoga C940,Tablet,$2.34 
+P0805,OnePlus Nord 2,Smartwatch,$0.93 
+P0806,LG Wing,Smartphone,$5.97 
+P0807,ASUS VivoBook S15,Laptop,$5.92 
+P0808,Garmin Fenix 7,Tablet,$2.92 
+P0809,Razer Blade 15,Smartwatch,$9.55 
+P0810,Xiaomi Redmi Note 10,Smartphone,$8.52 
+P0811,ASUS ROG Phone 5,Laptop,$3.91 
+P0812,Dell XPS 13,Tablet,$8.32 
+P0813,Samsung Galaxy Z Fold 3,Smartwatch,$7.42 
+P0814,HP Pavilion Gaming,Smartphone,$3.62 
+P0815,Fossil Gen 6,Laptop,$2.16 
+P0816,Lenovo K13,Tablet,$8.04 
+P0817,Nokia X20,Smartwatch,$5.20 
+P0818,LG Gram,Smartphone,$1.97 
+P0819,Google Pixel 4a 5G,Laptop,$4.09 
+P0820,Realme GT,Tablet,$2.05 
+P0821,Amazfit GTR 3,Smartwatch,$7.07 
+P0822,Huawei MateBook D,Smartphone,$4.83 
+P0823,HTC Desire 21,Laptop,$5.86 
+P0824,MSI GS66 Stealth,Tablet,$6.51 
+P0825,Vivo X70,Smartwatch,$2.30 
+P0826,Oppo A74,Smartphone,$2.19 
+P0827,Google Pixelbook,Laptop,$2.39 
+P0828,Honor Magic 3,Tablet,$9.29 
+P0829,Samsung Galaxy A52,Smartwatch,$5.76 
+P0830,Acer Chromebook Spin,Smartphone,$6.21 
+P0831,Lenovo Legion Phone Duel,Laptop,$1.08 
+P0832,Microsoft Surface Book,Tablet,$8.37 
+P0833,iPhone 13,Smartwatch,$1.57 
+P0834,Blackberry Key3,Smartphone,$1.51 
+P0835,ASUS ZenBook Pro Duo,Laptop,$8.77 
+P0836,Sony Xperia 10 III,Tablet,$7.12 
+P0837,Samsung Galaxy Watch 4,Smartwatch,$8.36 
+P0838,Acer Swift 5,Smartphone,$2.41 
+P0839,Xiaomi Mi 11,Laptop,$8.06 
+P0840,Huawei Watch GT 3,Tablet,$1.20 
+P0841,LG Q92,Smartwatch,$0.57 
+P0842,Dell Inspiron 15,Smartphone,$1.23 
+P0843,Blackberry Evolve,Laptop,$2.17 
+P0844,Oppo Reno6,Tablet,$2.96 
+P0845,Honor 50,Smartwatch,$2.28 
+P0846,iPhone SE (2022),Smartphone,$9.02 
+P0847,Realme C25,Laptop,$2.43 
+P0848,MSI Creator Z16,Tablet,$5.73 
+P0849,Samsung Galaxy M42,Smartwatch,$8.64 
+P0850,Lenovo ThinkPad X1 Carbon,Smartphone,$6.27 
+P0851,ASUS Zenfone 8 Flip,Laptop,$3.32 
+P0852,Fitbit Sense,Tablet,$4.83 
+P0853,OnePlus 9R,Smartwatch,$1.03 
+P0854,Microsoft Surface Laptop,Smartphone,$8.52 
+P0855,LG UltraGear,Laptop,$7.76 
+P0856,Nokia 5.4,Tablet,$3.76 
+P0857,Motorola Edge+,Smartwatch,$1.20 
+P0858,Xiaomi Mi Notebook,Smartphone,$4.61 
+P0859,Huawei Nova 8,Laptop,$3.57 
+P0860,Samsung Galaxy Book,Tablet,$6.99 
+P0861,TicWatch Pro 4,Smartwatch,$5.28 
+P0862,ASUS ROG Zephyrus G14,Smartphone,$6.89 
+P0863,Apple MacBook Air,Laptop,$6.51 
+P0864,Google Pixel 6 Pro,Tablet,$0.91 
+P0865,Lenovo Tab P11,Smartwatch,$8.84 
+P0866,Vivo V21,Smartphone,$3.49 
+P0867,Oppo Find X5,Laptop,$5.54 
+P0868,Samsung Galaxy A32,Tablet,$2.89 
+P0869,Dell Alienware 17,Smartwatch,$5.90 
+P0870,Honor 30S,Smartphone,$5.14 
+P0871,ASUS VivoBook Flip,Laptop,$5.86 
+P0872,Xiaomi Mi Watch,Tablet,$0.54 
+P0873,Sony Xperia 5 III,Smartwatch,$9.28 
+P0874,Lenovo Legion Y740,Smartphone,$8.69 
+P0875,Google Pixel Slate,Laptop,$0.44 
+P0876,ASUS Zenfone 8,Tablet,$8.92 
+P0877,HP Envy x360,Smartwatch,$0.81 
+P0878,Alienware m15,Smartphone,$3.36 
+P0879,ASUS TUF Gaming A15,Laptop,$3.76 
+P0880,LG Velvet,Tablet,$3.86 
+P0881,HP Spectre x360,Smartwatch,$7.58 
+P0882,Acer Predator Helios,Smartphone,$7.49 
+P0883,Apple Watch Series 7 (lặp lại?),Laptop,$9.87 
+P0884,ZTE Axon 30,Tablet,$2.34 
+P0885,Dell Latitude,Smartwatch,$9.74 
+P0886,Samsung Galaxy Chromebook,Smartphone,$0.97 
+P0887,Huawei MateBook X Pro,Laptop,$8.90 
+P0888,Lenovo Yoga Slim 7,Tablet,$1.01 
+P0889,Realme Narzo 50,Smartwatch,$4.56 
+P0890,MSI Aero 15,Smartphone,$1.64 
+P0891,Oppo Watch RX,Laptop,$1.19 
+P0892,iPhone 13 Pro,Tablet,$3.13 
+P0893,Blackberry Key2,Smartwatch,$2.28 
+P0894,ASUS ROG Zephyrus Duo,Smartphone,$9.21 
+P0895,Xiaomi RedmiBook,Laptop,$7.08 
+P0896,Huawei Mate 40,Tablet,$9.83 
+P0897,HP Omen 15,Smartwatch,$2.19 
+P0898,Acer Aspire,Smartphone,$9.14 
+P0899,Motorola Moto E7,Laptop,$8.86 
+P0900,Samsung Notebook 9,Tablet,$6.13 
+P0901,Apple Watch Series 7,Smartwatch,$5.66 
+P0902,Huawei P50,Smartphone,$9.78 
+P0903,Xiaomi Poco X3,Laptop,$2.83 
+P0904,Lenovo Yoga C940,Tablet,$4.34 
+P0905,OnePlus Nord 2,Smartwatch,$0.12 
+P0906,LG Wing,Smartphone,$4.86 
+P0907,ASUS VivoBook S15,Laptop,$3.25 
+P0908,Garmin Fenix 7,Tablet,$9.96 
+P0909,Razer Blade 15,Smartwatch,$4.35 
+P0910,Xiaomi Redmi Note 10,Smartphone,$9.58 
+P0911,ASUS ROG Phone 5,Laptop,$6.90 
+P0912,Dell XPS 13,Tablet,$3.18 
+P0913,Samsung Galaxy Z Fold 3,Smartwatch,$9.07 
+P0914,HP Pavilion Gaming,Smartphone,$9.54 
+P0915,Fossil Gen 6,Laptop,$8.70 
+P0916,Lenovo K13,Tablet,$1.60 
+P0917,Nokia X20,Smartwatch,$1.59 
+P0918,LG Gram,Smartphone,$9.98 
+P0919,Google Pixel 4a 5G,Laptop,$8.00 
+P0920,Realme GT,Tablet,$0.68 
+P0921,Amazfit GTR 3,Smartwatch,$8.55 
+P0922,Huawei MateBook D,Smartphone,$1.56 
+P0923,HTC Desire 21,Laptop,$4.72 
+P0924,MSI GS66 Stealth,Tablet,$0.89 
+P0925,Vivo X70,Smartwatch,$1.70 
+P0926,Oppo A74,Smartphone,$5.55 
+P0927,Google Pixelbook,Laptop,$1.18 
+P0928,Honor Magic 3,Tablet,$5.17 
+P0929,Samsung Galaxy A52,Smartwatch,$8.07 
+P0930,Acer Chromebook Spin,Smartphone,$0.86 
+P0931,Lenovo Legion Phone Duel,Laptop,$3.07 
+P0932,Microsoft Surface Book,Tablet,$1.96 
+P0933,iPhone 13,Smartwatch,$2.62 
+P0934,Blackberry Key3,Smartphone,$7.71 
+P0935,ASUS ZenBook Pro Duo,Laptop,$8.15 
+P0936,Sony Xperia 10 III,Tablet,$8.00 
+P0937,Samsung Galaxy Watch 4,Smartwatch,$7.24 
+P0938,Acer Swift 5,Smartphone,$2.13 
+P0939,Xiaomi Mi 11,Laptop,$9.96 
+P0940,Huawei Watch GT 3,Tablet,$2.46 
+P0941,LG Q92,Smartwatch,$1.27 
+P0942,Dell Inspiron 15,Smartphone,$5.41 
+P0943,Blackberry Evolve,Laptop,$7.71 
+P0944,Oppo Reno6,Tablet,$6.25 
+P0945,Honor 50,Smartwatch,$1.15 
+P0946,iPhone SE (2022),Smartphone,$4.54 
+P0947,Realme C25,Laptop,$1.39 
+P0948,MSI Creator Z16,Tablet,$8.05 
+P0949,Samsung Galaxy M42,Smartwatch,$9.52 
+P0950,Lenovo ThinkPad X1 Carbon,Smartphone,$8.17 
+P0951,ASUS Zenfone 8 Flip,Laptop,$8.60 
+P0952,Fitbit Sense,Tablet,$7.00 
+P0953,OnePlus 9R,Smartwatch,$2.91 
+P0954,Microsoft Surface Laptop,Smartphone,$8.21 
+P0955,LG UltraGear,Laptop,$4.87 
+P0956,Nokia 5.4,Tablet,$3.01 
+P0957,Motorola Edge+,Smartwatch,$4.98 
+P0958,Xiaomi Mi Notebook,Smartphone,$9.12 
+P0959,Huawei Nova 8,Laptop,$4.06 
+P0960,Samsung Galaxy Book,Tablet,$6.07 
+P0961,TicWatch Pro 4,Smartwatch,$3.33 
+P0962,ASUS ROG Zephyrus G14,Smartphone,$1.89 
+P0963,Apple MacBook Air,Laptop,$4.40 
+P0964,Google Pixel 6 Pro,Tablet,$0.06 
+P0965,Lenovo Tab P11,Smartwatch,$6.42 
+P0966,Vivo V21,Smartphone,$6.39 
+P0967,Oppo Find X5,Laptop,$4.59 
+P0968,Samsung Galaxy A32,Tablet,$6.75 
+P0969,Dell Alienware 17,Smartwatch,$3.53 
+P0970,Honor 30S,Smartphone,$3.54 
+P0971,ASUS VivoBook Flip,Laptop,$8.05 
+P0972,Xiaomi Mi Watch,Tablet,$5.14 
+P0973,Sony Xperia 5 III,Smartwatch,$5.37 
+P0974,Lenovo Legion Y740,Smartphone,$9.71 
+P0975,Google Pixel Slate,Laptop,$9.36 
+P0976,ASUS Zenfone 8,Tablet,$6.59 
+P0977,HP Envy x360,Smartwatch,$8.59 
+P0978,Alienware m15,Smartphone,$3.17 
+P0979,ASUS TUF Gaming A15,Laptop,$4.09 
+P0980,LG Velvet,Tablet,$2.13 
+P0981,HP Spectre x360,Smartwatch,$9.60 
+P0982,Acer Predator Helios,Smartphone,$6.49 
+P0983,Apple Watch Series 7 (lặp lại?),Laptop,$6.92 
+P0984,ZTE Axon 30,Tablet,$5.34 
+P0985,Dell Latitude,Smartwatch,$7.00 
+P0986,Samsung Galaxy Chromebook,Smartphone,$5.86 
+P0987,Huawei MateBook X Pro,Laptop,$9.85 
+P0988,Lenovo Yoga Slim 7,Tablet,$2.69 
+P0989,Realme Narzo 50,Smartwatch,$4.39 
+P0990,MSI Aero 15,Smartphone,$6.40 
+P0991,Oppo Watch RX,Laptop,$1.46 
+P0992,iPhone 13 Pro,Tablet,$3.67 
+P0993,Blackberry Key2,Smartwatch,$8.02 
+P0994,ASUS ROG Zephyrus Duo,Smartphone,$5.65 
+P0995,Xiaomi RedmiBook,Laptop,$7.36 
+P0996,Huawei Mate 40,Tablet,$2.14 
+P0997,HP Omen 15,Smartwatch,$4.96 
+P0998,Acer Aspire,Smartphone,$6.67 
+P0999,Motorola Moto E7,Laptop,$5.15 
+P1000,Samsung Notebook 9,Tablet,$9.03 
